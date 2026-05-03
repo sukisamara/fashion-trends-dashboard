@@ -1,0 +1,38 @@
+{
+  "categories": {
+    "Luxury": [
+      "Louis Vuitton", "Gucci", "Chanel", "Hermès", "Dior", "Prada",
+      "Burberry", "Versace", "Saint Laurent", "Balenciaga", "Givenchy",
+      "Fendi", "Bottega Veneta", "Valentino", "Celine", "Loewe",
+      "Miu Miu", "Tom Ford", "Alexander McQueen", "Off-White", "Moncler",
+      "Brunello Cucinelli", "Loro Piana", "Stella McCartney", "Acne Studios",
+      "Jacquemus", "Ami Paris", "Maison Margiela", "Rick Owens", "Dolce & Gabbana"
+    ],
+    "Sportswear": [
+      "Nike", "Adidas", "Puma", "Under Armour", "New Balance", "Asics",
+      "Reebok", "Lululemon", "On Running", "Hoka", "Salomon", "Patagonia",
+      "The North Face", "Arc'teryx", "Columbia"
+    ],
+    "Mass Market": [
+      "Zara", "H&M", "Uniqlo", "Shein", "Mango", "Pull & Bear", "Bershka",
+      "Stradivarius", "Massimo Dutti", "COS", "Primark", "Boohoo", "ASOS",
+      "PrettyLittleThing", "Forever 21"
+    ],
+    "Premium / Designer Casual": [
+      "Calvin Klein", "Tommy Hilfiger", "Ralph Lauren", "Lacoste", "Hugo Boss",
+      "Armani", "Diesel", "Levi's", "Guess", "G-Star Raw", "Ted Baker",
+      "Paul Smith", "Kenzo", "Carhartt", "Marc Jacobs"
+    ],
+    "Streetwear": [
+      "Supreme", "Stüssy", "A Bathing Ape", "Palace", "Fear of God"
+    ],
+    "Footwear": [
+      "Converse", "Vans", "Dr. Martens", "Crocs", "Birkenstock", "UGG",
+      "Timberland", "Clarks", "Allbirds", "Skechers"
+    ],
+    "Bags / Lifestyle": [
+      "Coach", "Michael Kors", "Kate Spade", "Tory Burch", "Longchamp",
+      "SKIMS", "Aritzia", "Reformation", "Everlane", "Madewell"
+    ]
+  }
+}

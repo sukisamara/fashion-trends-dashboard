@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Fashion Trends — Daily Index</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,800&family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__rule"></div>
+    <div class="masthead__top">
+      <span class="masthead__edition" id="edition-meta">— · WORLDWIDE EDITION</span>
+      <span class="masthead__index" id="index-stamp">N° 001</span>
+    </div>
+    <h1 class="masthead__title">
+      <span class="masthead__title-main">Fashion</span>
+      <span class="masthead__title-sub"><em>trends</em> index</span>
+    </h1>
+    <div class="masthead__sub">
+      <span>Search interest across 100 of the world's biggest fashion houses.</span>
+      <span class="masthead__updated" id="updated-stamp">Awaiting first refresh</span>
+    </div>
+    <div class="masthead__rule"></div>
+  </header>
+
+  <section class="controls" id="controls">
+    <div class="controls__categories" id="categories"></div>
+    <div class="controls__sort">
+      <label for="sort">Sort</label>
+      <select id="sort">
+        <option value="latest">Search interest (high → low)</option>
+        <option value="change">Trending (4-week change)</option>
+        <option value="alpha">Alphabetical</option>
+      </select>
+    </div>
+  </section>
+
+  <main id="grid" class="grid">
+    <div class="empty-state" id="empty-state">
+      <p class="empty-state__title">Awaiting first refresh</p>
+      <p class="empty-state__body">
+        Once the daily workflow runs, you'll see all 100 brands here.
+        Trigger it manually from the GitHub Actions tab to populate the dashboard immediately.
+      </p>
+    </div>
+  </main>
+
+  <!-- Detail modal -->
+  <div class="modal" id="modal" aria-hidden="true">
+    <div class="modal__backdrop" data-close></div>
+    <article class="modal__panel" role="dialog" aria-modal="true">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <header class="modal__head">
+        <span class="modal__category" id="m-category"></span>
+        <h2 class="modal__name" id="m-name"></h2>
+      </header>
+      <div class="modal__stats">
+        <div><span>Latest</span><strong id="m-latest"></strong></div>
+        <div><span>12-mo avg</span><strong id="m-avg"></strong></div>
+        <div><span>4-wk change</span><strong id="m-change"></strong></div>
+      </div>
+      <div class="modal__chart" id="m-chart"></div>
+      <div class="modal__rising">
+        <h3>Rising searches</h3>
+        <ol id="m-rising"></ol>
+      </div>
+    </article>
+  </div>
+
+  <footer class="colophon">
+    <span>Data: Google Trends, normalised against Nike (worldwide).</span>
+    <span id="benchmark-note"></span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
