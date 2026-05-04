@@ -27,7 +27,7 @@ jobs:
       - name: Fetch trends
         run: python scripts/fetch_trends.py
 
-     - name: Commit refreshed data
+    - name: Commit refreshed data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
