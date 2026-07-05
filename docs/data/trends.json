@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T09:10:09.619880+00:00",
+  "generated_at": "2026-07-05T09:36:58.278768+00:00",
   "geo": "worldwide",
   "timeframe": "today 12-m",
   "benchmark": "Nike",
@@ -18,7 +18,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-07-20",
@@ -122,7 +122,7 @@
         },
         {
           "date": "2026-01-11",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-01-18",
@@ -142,11 +142,11 @@
         },
         {
           "date": "2026-02-15",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-02-22",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-03-01",
@@ -162,11 +162,11 @@
         },
         {
           "date": "2026-03-22",
-          "value": 21
+          "value": 20
         },
         {
           "date": "2026-03-29",
-          "value": 28
+          "value": 27
         },
         {
           "date": "2026-04-05",
@@ -178,7 +178,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 31
+          "value": 32
         },
         {
           "date": "2026-04-26",
@@ -186,7 +186,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 41
+          "value": 42
         },
         {
           "date": "2026-05-10",
@@ -194,7 +194,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2026-05-24",
@@ -219,33 +219,37 @@
         {
           "date": "2026-06-28",
           "value": 7
+        },
+        {
+          "date": "2026-07-05",
+          "value": 6
         }
       ],
       "summary": {
-        "latest": 7,
-        "avg": 12.6,
-        "change_pct": -56.6
+        "latest": 6,
+        "avg": 12.5,
+        "change_pct": -49.2
       },
       "rising_queries": [
         {
-          "query": "louis vuitton discovery backpack",
-          "value": 2500
+          "query": "kelly osbourne louis vuitton",
+          "value": 3150
         },
         {
-          "query": "louis vuitton watch",
-          "value": 750
+          "query": "rain tea louis vuitton",
+          "value": 2600
         },
         {
           "query": "louis vuitton backpack",
-          "value": 650
+          "value": 700
+        },
+        {
+          "query": "louis vuitton pinarello",
+          "value": 550
         },
         {
           "query": "louis vuitton necklace",
           "value": 500
-        },
-        {
-          "query": "louis vuitton earrings",
-          "value": 400
         }
       ]
     },
@@ -295,7 +299,7 @@
         },
         {
           "date": "2025-09-07",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2025-09-14",
@@ -343,7 +347,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 10
+          "value": 11
         },
         {
           "date": "2025-12-07",
@@ -363,7 +367,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2026-01-11",
@@ -383,7 +387,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2026-02-15",
@@ -399,7 +403,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-03-15",
@@ -411,7 +415,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 32
+          "value": 31
         },
         {
           "date": "2026-04-05",
@@ -419,23 +423,23 @@
         },
         {
           "date": "2026-04-12",
-          "value": 34
+          "value": 33
         },
         {
           "date": "2026-04-19",
-          "value": 34
+          "value": 33
         },
         {
           "date": "2026-04-26",
-          "value": 31
+          "value": 33
         },
         {
           "date": "2026-05-03",
-          "value": 42
+          "value": 41
         },
         {
           "date": "2026-05-10",
-          "value": 36
+          "value": 35
         },
         {
           "date": "2026-05-17",
@@ -443,11 +447,11 @@
         },
         {
           "date": "2026-05-24",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2026-05-31",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-06-07",
@@ -459,22 +463,26 @@
         },
         {
           "date": "2026-06-21",
-          "value": 10
+          "value": 9
         },
         {
           "date": "2026-06-28",
           "value": 8
+        },
+        {
+          "date": "2026-07-05",
+          "value": 7
         }
       ],
       "summary": {
-        "latest": 8,
-        "avg": 14.0,
-        "change_pct": -55.4
+        "latest": 7,
+        "avg": 13.8,
+        "change_pct": -48.5
       },
       "rising_queries": [
         {
           "query": "gucci backpack",
-          "value": 900
+          "value": 850
         },
         {
           "query": "michael kors",
@@ -490,7 +498,7 @@
         },
         {
           "query": "gucci boots",
-          "value": 250
+          "value": 300
         }
       ]
     },
@@ -508,7 +516,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-20",
@@ -520,7 +528,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-08-10",
@@ -528,15 +536,15 @@
         },
         {
           "date": "2025-08-17",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-08-24",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-08-31",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-09-07",
@@ -552,7 +560,7 @@
         },
         {
           "date": "2025-09-28",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-10-05",
@@ -564,11 +572,11 @@
         },
         {
           "date": "2025-10-19",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-10-26",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-11-02",
@@ -576,7 +584,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2025-11-16",
@@ -592,11 +600,11 @@
         },
         {
           "date": "2025-12-07",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2025-12-14",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2025-12-21",
@@ -612,7 +620,7 @@
         },
         {
           "date": "2026-01-11",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2026-01-18",
@@ -656,7 +664,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2026-04-05",
@@ -664,7 +672,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2026-04-19",
@@ -684,7 +692,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 14
+          "value": 15
         },
         {
           "date": "2026-05-24",
@@ -692,7 +700,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 15
+          "value": 14
         },
         {
           "date": "2026-06-07",
@@ -700,7 +708,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2026-06-21",
@@ -709,33 +717,37 @@
         {
           "date": "2026-06-28",
           "value": 11
+        },
+        {
+          "date": "2026-07-05",
+          "value": 11
         }
       ],
       "summary": {
         "latest": 11,
-        "avg": 13.2,
-        "change_pct": -15.3
+        "avg": 13.1,
+        "change_pct": -15.8
       },
       "rising_queries": [
         {
           "query": "tyla chanel lyrics",
-          "value": 19900
+          "value": 21200
         },
         {
           "query": "chanel tyla",
-          "value": 18400
+          "value": 18100
         },
         {
           "query": "bleu de chanel l'exclusif",
-          "value": 5550
+          "value": 5400
         },
         {
           "query": "chanel rouge allure velvet luminous matte lip colour",
-          "value": 2650
+          "value": 2200
         },
         {
           "query": "chanel 25 small",
-          "value": 700
+          "value": 750
         }
       ]
     },
@@ -765,7 +777,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-08-10",
@@ -893,7 +905,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-03-22",
@@ -954,33 +966,37 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
         "latest": 0,
         "avg": 0.8,
-        "change_pct": -25.0
+        "change_pct": -50.0
       },
       "rising_queries": [
         {
-          "query": "openai news",
-          "value": 48250
-        },
-        {
-          "query": "openai news today",
-          "value": 22350
-        },
-        {
-          "query": "technology news today",
-          "value": 13250
-        },
-        {
           "query": "ai news today",
-          "value": 9450
+          "value": 15550
+        },
+        {
+          "query": "openai news",
+          "value": 9050
         },
         {
           "query": "hermès news",
-          "value": 6000
+          "value": 6150
+        },
+        {
+          "query": "openai news today",
+          "value": 5250
+        },
+        {
+          "query": "technology news today",
+          "value": 2800
         }
       ]
     },
@@ -998,7 +1014,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2025-07-20",
@@ -1006,7 +1022,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2025-08-03",
@@ -1022,11 +1038,11 @@
         },
         {
           "date": "2025-08-24",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2025-08-31",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2025-09-07",
@@ -1046,15 +1062,15 @@
         },
         {
           "date": "2025-10-05",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2025-10-12",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2025-10-19",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2025-10-26",
@@ -1090,7 +1106,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2025-12-28",
@@ -1098,7 +1114,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2026-01-11",
@@ -1118,7 +1134,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2026-02-15",
@@ -1126,7 +1142,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 12
+          "value": 13
         },
         {
           "date": "2026-03-01",
@@ -1138,7 +1154,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2026-03-22",
@@ -1146,11 +1162,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-04-05",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-04-12",
@@ -1158,7 +1174,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-04-26",
@@ -1170,7 +1186,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2026-05-17",
@@ -1178,7 +1194,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 15
+          "value": 14
         },
         {
           "date": "2026-05-31",
@@ -1194,22 +1210,26 @@
         },
         {
           "date": "2026-06-21",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2026-06-28",
           "value": 11
+        },
+        {
+          "date": "2026-07-05",
+          "value": 12
         }
       ],
       "summary": {
-        "latest": 11,
-        "avg": 14.0,
-        "change_pct": -18.6
+        "latest": 12,
+        "avg": 13.9,
+        "change_pct": -17.9
       },
       "rising_queries": [
         {
           "query": "miss dior essence",
-          "value": 2350
+          "value": 2300
         },
         {
           "query": "dior backstage face and body foundation",
@@ -1221,11 +1241,11 @@
         },
         {
           "query": "dior addict shine lipstick",
-          "value": 700
+          "value": 650
         },
         {
-          "query": "dior backstage foundation",
-          "value": 170
+          "query": "dior solar",
+          "value": 250
         }
       ]
     },
@@ -1263,7 +1283,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-08-24",
@@ -1275,7 +1295,7 @@
         },
         {
           "date": "2025-09-07",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-09-14",
@@ -1287,7 +1307,7 @@
         },
         {
           "date": "2025-09-28",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-10-05",
@@ -1299,7 +1319,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2025-10-26",
@@ -1311,7 +1331,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-11-16",
@@ -1375,7 +1395,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-03-08",
@@ -1387,11 +1407,11 @@
         },
         {
           "date": "2026-03-22",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2026-03-29",
-          "value": 27
+          "value": 26
         },
         {
           "date": "2026-04-05",
@@ -1399,23 +1419,23 @@
         },
         {
           "date": "2026-04-12",
-          "value": 34
+          "value": 35
         },
         {
           "date": "2026-04-19",
-          "value": 40
+          "value": 39
         },
         {
           "date": "2026-04-26",
-          "value": 65
+          "value": 66
         },
         {
           "date": "2026-05-03",
-          "value": 68
+          "value": 70
         },
         {
           "date": "2026-05-10",
-          "value": 50
+          "value": 48
         },
         {
           "date": "2026-05-17",
@@ -1423,7 +1443,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-05-31",
@@ -1435,7 +1455,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2026-06-21",
@@ -1444,33 +1464,37 @@
         {
           "date": "2026-06-28",
           "value": 9
+        },
+        {
+          "date": "2026-07-05",
+          "value": 9
         }
       ],
       "summary": {
         "latest": 9,
         "avg": 14.6,
-        "change_pct": -62.9
+        "change_pct": -50.0
       },
       "rising_queries": [
         {
           "query": "prada paradigme",
-          "value": 35200
+          "value": 32100
         },
         {
           "query": "the devil wears prada 2 showtimes",
-          "value": 25400
+          "value": 25550
         },
         {
           "query": "prada paradigme eau de parfum",
-          "value": 9950
+          "value": 10000
         },
         {
           "query": "devil wears prada 2 streaming",
-          "value": 8000
+          "value": 6500
         },
         {
           "query": "how long is devil wears prada 2",
-          "value": 6500
+          "value": 6450
         }
       ]
     },
@@ -1560,7 +1584,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-11-23",
@@ -1612,7 +1636,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-02-22",
@@ -1636,11 +1660,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-04-05",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-04-12",
@@ -1668,7 +1692,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-05-31",
@@ -1689,33 +1713,37 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
         "latest": 3,
         "avg": 4.4,
-        "change_pct": -26.3
+        "change_pct": -31.6
       },
       "rising_queries": [
         {
           "query": "jiffy lube",
-          "value": 5050
+          "value": 4200
         },
         {
           "query": "burberry backpack",
-          "value": 250
-        },
-        {
-          "query": "burberry crossbody bag",
-          "value": 190
+          "value": 200
         },
         {
           "query": "burberry winterjacke",
-          "value": 190
+          "value": 180
+        },
+        {
+          "query": "burberry crossbody bag",
+          "value": 180
         },
         {
           "query": "burberry goddess eau de parfum",
-          "value": 170
+          "value": 150
         }
       ]
     },
@@ -1749,7 +1777,7 @@
         },
         {
           "date": "2025-08-10",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-08-17",
@@ -1817,7 +1845,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-12-14",
@@ -1877,11 +1905,11 @@
         },
         {
           "date": "2026-03-22",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-03-29",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-04-05",
@@ -1901,7 +1929,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-05-10",
@@ -1934,25 +1962,29 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
         "latest": 3,
         "avg": 4.5,
-        "change_pct": -25.0
+        "change_pct": -26.3
       },
       "rising_queries": [
         {
           "query": "versace crystal emerald",
-          "value": 16100
+          "value": 20850
         },
         {
           "query": "versace dylan blush pink",
-          "value": 6300
+          "value": 6650
         },
         {
           "query": "versace eau fraiche extreme",
-          "value": 500
+          "value": 550
         },
         {
           "query": "versace dylan blue eau de toilette",
@@ -1960,7 +1992,7 @@
         },
         {
           "query": "bright crystal versace eau de toilette",
-          "value": 250
+          "value": 300
         }
       ]
     },
@@ -2062,7 +2094,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-12-14",
@@ -2138,7 +2170,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-04-26",
@@ -2146,7 +2178,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-05-10",
@@ -2179,12 +2211,16 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
         "avg": 3.4,
-        "change_pct": -29.4
+        "change_pct": -37.5
       },
       "rising_queries": [
         {
@@ -2197,7 +2233,7 @@
         },
         {
           "query": "black opium yves saint laurent eau de parfum",
-          "value": 450
+          "value": 400
         },
         {
           "query": "yves saint laurent myslf le parfum",
@@ -2205,7 +2241,7 @@
         },
         {
           "query": "yves saint laurent myslf eau de parfum",
-          "value": 250
+          "value": 200
         }
       ]
     },
@@ -2347,7 +2383,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-02-22",
@@ -2355,7 +2391,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-03-08",
@@ -2399,7 +2435,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-05-24",
@@ -2424,32 +2460,36 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
-        "avg": 3.4,
-        "change_pct": -28.6
+        "avg": 3.3,
+        "change_pct": -25.0
       },
       "rising_queries": [
         {
           "query": "trash bag large pouch",
-          "value": 39150
+          "value": 38100
         },
         {
           "query": "balenciaga trash bag yellow",
-          "value": 16100
+          "value": 20150
         },
         {
           "query": "balenciaga plastic bag",
-          "value": 2000
+          "value": 1950
         },
         {
           "query": "balenciaga le city bag",
           "value": 350
         },
         {
-          "query": "bolsa balenciaga",
+          "query": "balenciaga 3xl sneakers",
           "value": 190
         }
       ]
@@ -2596,7 +2636,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-03-01",
@@ -2660,7 +2700,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-06-21",
@@ -2669,33 +2709,37 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
-        "avg": 1.6,
+        "avg": 1.7,
         "change_pct": -37.5
       },
       "rising_queries": [
         {
           "query": "sean taffin de givenchy",
-          "value": 16550
+          "value": 6600
         },
         {
           "query": "givenchy irresistible nectar",
-          "value": 3100
+          "value": 3350
         },
         {
           "query": "givenchy irresistible eau de toilette fraiche",
-          "value": 400
+          "value": 350
+        },
+        {
+          "query": "givenchy earrings",
+          "value": 250
         },
         {
           "query": "givenchy sport",
           "value": 250
-        },
-        {
-          "query": "givenchy society ambree",
-          "value": 200
         }
       ]
     },
@@ -2717,7 +2761,7 @@
         },
         {
           "date": "2025-07-20",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-07-27",
@@ -2733,7 +2777,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-08-24",
@@ -2741,7 +2785,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2025-09-07",
@@ -2849,7 +2893,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2026-03-15",
@@ -2914,33 +2958,37 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.7,
-        "change_pct": -25.0
+        "change_pct": -37.5
       },
       "rising_queries": [
         {
           "query": "rakhim fendi 2",
-          "value": 39900
+          "value": 39150
         },
         {
           "query": "fendi needlepoint bag",
-          "value": 29100
+          "value": 29250
         },
         {
           "query": "rakhim abramov fendi 2",
-          "value": 28100
+          "value": 28050
         },
         {
-          "query": "malena fendi",
-          "value": 150
+          "query": "رحیم آبراموف fendi 2",
+          "value": 4050
         },
         {
-          "query": "fendi mamma baguette",
-          "value": 100
+          "query": "fendi needlepoint bag kit",
+          "value": 2200
         }
       ]
     },
@@ -3118,7 +3166,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2026-04-26",
@@ -3159,33 +3207,37 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.1,
-        "change_pct": -20.0
+        "change_pct": 0.0
       },
       "rising_queries": [
         {
+          "query": "bottega veneta intrecciato bag",
+          "value": 450
+        },
+        {
           "query": "bottega veneta intrecciato",
+          "value": 450
+        },
+        {
+          "query": "bottega veneta orbit sneakers",
           "value": 350
+        },
+        {
+          "query": "bottega veneta shoulder bag",
+          "value": 300
         },
         {
           "query": "bottega veneta orbit",
           "value": 200
-        },
-        {
-          "query": "bottega veneta jacket",
-          "value": 190
-        },
-        {
-          "query": "bottega veneta black",
-          "value": 170
-        },
-        {
-          "query": "bottega veneta andiamo bag",
-          "value": 120
         }
       ]
     },
@@ -3215,15 +3267,15 @@
         },
         {
           "date": "2025-08-03",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-10",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-17",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-24",
@@ -3247,11 +3299,11 @@
         },
         {
           "date": "2025-09-28",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-10-05",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-10-12",
@@ -3291,7 +3343,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-12-21",
@@ -3323,7 +3375,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-02-15",
@@ -3343,7 +3395,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-03-22",
@@ -3351,7 +3403,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-04-05",
@@ -3359,7 +3411,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-04-19",
@@ -3403,34 +3455,38 @@
         },
         {
           "date": "2026-06-28",
+          "value": 4
+        },
+        {
+          "date": "2026-07-05",
           "value": 3
         }
       ],
       "summary": {
         "latest": 3,
-        "avg": 5.2,
-        "change_pct": -20.0
+        "avg": 5.1,
+        "change_pct": -25.0
       },
       "rising_queries": [
         {
           "query": "valentino purple melancholia",
-          "value": 55200
+          "value": 53000
         },
         {
           "query": "valentino born in roma purple melancholia",
-          "value": 27000
+          "value": 26600
         },
         {
           "query": "san valentino 2026",
-          "value": 15050
+          "value": 14700
         },
         {
           "query": "valentino born in roma ivory",
-          "value": 13000
+          "value": 11750
         },
         {
           "query": "valentino ivory",
-          "value": 1600
+          "value": 1650
         }
       ]
     },
@@ -3536,7 +3592,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-12-21",
@@ -3544,7 +3600,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-01-04",
@@ -3612,7 +3668,7 @@
         },
         {
           "date": "2026-04-26",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-05-03",
@@ -3636,7 +3692,7 @@
         },
         {
           "date": "2026-06-07",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-06-14",
@@ -3649,6 +3705,10 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 4
         }
       ],
       "summary": {
@@ -3659,23 +3719,23 @@
       "rising_queries": [
         {
           "query": "axs celine dion",
-          "value": 32150
+          "value": 43350
         },
         {
           "query": "celine dion paris 2026",
-          "value": 11700
+          "value": 11200
         },
         {
           "query": "celine dion 2026",
-          "value": 4700
+          "value": 4550
+        },
+        {
+          "query": "celine dion concert 2026",
+          "value": 2300
         },
         {
           "query": "celine cremer",
-          "value": 2550
-        },
-        {
-          "query": "concert celine dion 2026",
-          "value": 2550
+          "value": 2250
         }
       ]
     },
@@ -3894,33 +3954,37 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
+        "latest": 1,
         "avg": 2.0,
-        "change_pct": 0.0
+        "change_pct": -12.5
       },
       "rising_queries": [
         {
           "query": "loewe japan",
-          "value": 130
+          "value": 140
         },
         {
           "query": "loewe aire sutileza",
-          "value": 110
+          "value": 120
         },
         {
           "query": "loewe schal",
-          "value": 100
+          "value": 110
         },
         {
           "query": "loewe pants",
-          "value": 60
+          "value": 70
         },
         {
           "query": "loewe crossbody bag",
-          "value": 50
+          "value": 60
         }
       ]
     },
@@ -3966,7 +4030,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-09-07",
@@ -4030,7 +4094,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-12-28",
@@ -4070,7 +4134,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2026-03-08",
@@ -4082,7 +4146,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-03-29",
@@ -4139,33 +4203,37 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
         "latest": 3,
         "avg": 3.4,
-        "change_pct": -33.3
+        "change_pct": -20.0
       },
       "rising_queries": [
         {
-          "query": "miu miu miutine",
-          "value": 70150
-        },
-        {
-          "query": "miu lê bị bắt",
-          "value": 9750
-        },
-        {
-          "query": "new balance 204l",
-          "value": 2350
-        },
-        {
-          "query": "miu natsha",
-          "value": 1200
-        },
-        {
           "query": "miu miu fleur de lait",
           "value": 900
+        },
+        {
+          "query": "miu miu parfum",
+          "value": 600
+        },
+        {
+          "query": "miu lê",
+          "value": 250
+        },
+        {
+          "query": "miu miu sunglasses women",
+          "value": 160
+        },
+        {
+          "query": "miu le",
+          "value": 80
         }
       ]
     },
@@ -4251,7 +4319,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2025-11-16",
@@ -4367,7 +4435,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-06-07",
@@ -4384,14 +4452,39 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
         "avg": 3.3,
-        "change_pct": -31.2
+        "change_pct": -28.6
       },
-      "rising_queries": []
+      "rising_queries": [
+        {
+          "query": "tom ford oud voyager",
+          "value": 11050
+        },
+        {
+          "query": "tom ford suit",
+          "value": 100
+        },
+        {
+          "query": "tom ford beauty",
+          "value": 90
+        },
+        {
+          "query": "tom ford fragrance",
+          "value": 70
+        },
+        {
+          "query": "gucci",
+          "value": 60
+        }
+      ]
     },
     {
       "name": "Alexander McQueen",
@@ -4399,7 +4492,7 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-07-06",
@@ -4415,7 +4508,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-08-03",
@@ -4471,7 +4564,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2025-11-09",
@@ -4599,7 +4692,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-06-21",
@@ -4608,6 +4701,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -4615,28 +4712,7 @@
         "avg": 0.8,
         "change_pct": -75.0
       },
-      "rising_queries": [
-        {
-          "query": "alexander mcqueen killed himself",
-          "value": 2050
-        },
-        {
-          "query": "alexander mcqueen oversized sneaker",
-          "value": 500
-        },
-        {
-          "query": "alexander mcqueen oversized",
-          "value": 350
-        },
-        {
-          "query": "alexander mcqueen oversized sneakers",
-          "value": 350
-        },
-        {
-          "query": "alexander mcqueen sandals",
-          "value": 300
-        }
-      ]
+      "rising_queries": []
     },
     {
       "name": "Off-White",
@@ -4853,6 +4929,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -4862,24 +4942,24 @@
       },
       "rising_queries": [
         {
-          "query": "off-white sunglasses",
-          "value": 150
-        },
-        {
           "query": "off-white hoodie",
-          "value": 130
+          "value": 160
         },
         {
-          "query": "off-white brand",
-          "value": 110
+          "query": "off-white sunglasses",
+          "value": 140
+        },
+        {
+          "query": "off-white jeans",
+          "value": 100
         },
         {
           "query": "off-white color",
           "value": 80
         },
         {
-          "query": "virgil abloh",
-          "value": 70
+          "query": "off-white t-shirt",
+          "value": 50
         }
       ]
     },
@@ -4917,7 +4997,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-08-24",
@@ -4949,7 +5029,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2025-10-19",
@@ -4969,7 +5049,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-11-23",
@@ -5037,7 +5117,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-03-22",
@@ -5049,7 +5129,7 @@
         },
         {
           "date": "2026-04-05",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2026-04-12",
@@ -5098,6 +5178,10 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
@@ -5107,24 +5191,24 @@
       },
       "rising_queries": [
         {
-          "query": "lululemon",
-          "value": 180
-        },
-        {
           "query": "moncler stock",
-          "value": 120
+          "value": 130
         },
         {
-          "query": "moncler store",
-          "value": 100
+          "query": "moncler genius",
+          "value": 110
         },
         {
           "query": "alo",
           "value": 100
         },
         {
-          "query": "moncler genius",
+          "query": "moncler grenoble jacket",
           "value": 100
+        },
+        {
+          "query": "moncler store",
+          "value": 80
         }
       ]
     },
@@ -5298,11 +5382,11 @@
         },
         {
           "date": "2026-04-12",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-04-19",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-04-26",
@@ -5343,6 +5427,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -5352,24 +5440,24 @@
       },
       "rising_queries": [
         {
-          "query": "brunello cucinelli news",
-          "value": 850
-        },
-        {
-          "query": "brunello cucinelli film",
-          "value": 800
-        },
-        {
           "query": "brunello cucinelli bal harbour",
-          "value": 750
-        },
-        {
-          "query": "brunello cucinelli vento ardente",
           "value": 300
         },
         {
-          "query": "brunello cucinelli kids",
-          "value": 250
+          "query": "brunello cucinelli cashmere sweater",
+          "value": 200
+        },
+        {
+          "query": "brunello cucinelli sweater",
+          "value": 160
+        },
+        {
+          "query": "brunello cucinelli shirt",
+          "value": 110
+        },
+        {
+          "query": "brunello cucinelli women",
+          "value": 90
         }
       ]
     },
@@ -5588,17 +5676,21 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.1,
-        "change_pct": -20.0
+        "change_pct": 0.0
       },
       "rising_queries": [
         {
           "query": "loro piana news",
-          "value": 2050
+          "value": 2000
         },
         {
           "query": "loro piana suit",
@@ -5610,11 +5702,11 @@
         },
         {
           "query": "loro piana logo",
-          "value": 200
+          "value": 180
         },
         {
-          "query": "loro piana uk",
-          "value": 130
+          "query": "loro piana coat",
+          "value": 140
         }
       ]
     },
@@ -5780,7 +5872,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-04-05",
@@ -5812,7 +5904,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-05-31",
@@ -5833,6 +5925,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -5843,23 +5939,23 @@
       "rising_queries": [
         {
           "query": "hm stella mccartney 2026",
-          "value": 8900
-        },
-        {
-          "query": "h&m x stella mccartney",
-          "value": 3100
+          "value": 55650
         },
         {
           "query": "h&m stella mccartney",
-          "value": 2300
-        },
-        {
-          "query": "h&m",
           "value": 2200
         },
         {
+          "query": "h&m",
+          "value": 2100
+        },
+        {
           "query": "hm",
-          "value": 2150
+          "value": 2050
+        },
+        {
+          "query": "stella mccartney sneakers",
+          "value": 200
         }
       ]
     },
@@ -5977,11 +6073,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-01-11",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-01-18",
@@ -6021,7 +6117,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-03-29",
@@ -6049,7 +6145,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-05-17",
@@ -6078,17 +6174,25 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
         "latest": 0,
         "avg": 0.4,
-        "change_pct": -50.0
+        "change_pct": -100.0
       },
       "rising_queries": [
         {
           "query": "acne studios longsleeve",
-          "value": 700
+          "value": 650
+        },
+        {
+          "query": "acne studios camero bag",
+          "value": 400
         },
         {
           "query": "acne studios long sleeve",
@@ -6099,12 +6203,8 @@
           "value": 250
         },
         {
-          "query": "eme studios",
-          "value": 130
-        },
-        {
-          "query": "acne studios t-shirt",
-          "value": 110
+          "query": "acne studios long sleeve t shirt",
+          "value": 200
         }
       ]
     },
@@ -6323,6 +6423,10 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
@@ -6332,24 +6436,24 @@
       },
       "rising_queries": [
         {
+          "query": "jacquemus equipe de france",
+          "value": 31350
+        },
+        {
           "query": "nike moon shoe",
-          "value": 21500
+          "value": 23700
         },
         {
           "query": "jacquemus moon shoe",
-          "value": 20700
-        },
-        {
-          "query": "jacquemus equipe de france",
-          "value": 14100
+          "value": 16600
         },
         {
           "query": "jacquemus x nike moon shoes",
-          "value": 3450
+          "value": 4300
         },
         {
           "query": "nike x jacquemus",
-          "value": 250
+          "value": 200
         }
       ]
     },
@@ -6568,6 +6672,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -6578,7 +6686,7 @@
       "rising_queries": [
         {
           "query": "ami de paris",
-          "value": 90
+          "value": 80
         },
         {
           "query": "ami paris polo shirt",
@@ -6760,7 +6868,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-04-26",
@@ -6772,7 +6880,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2026-05-17",
@@ -6801,25 +6909,25 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.1,
-        "change_pct": -20.0
+        "change_pct": 0.0
       },
       "rising_queries": [
         {
-          "query": "maison margiela replica sailing day",
+          "query": "maison margiela ring",
           "value": 200
         },
         {
-          "query": "mm6 maison margiela",
-          "value": 110
-        },
-        {
-          "query": "maison margiela lazy sunday morning",
-          "value": 90
+          "query": "maison margiela replica sailing day",
+          "value": 190
         },
         {
           "query": "salomon",
@@ -6828,6 +6936,10 @@
         {
           "query": "mm6",
           "value": 90
+        },
+        {
+          "query": "supreme",
+          "value": 80
         }
       ]
     },
@@ -7046,6 +7158,10 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
@@ -7055,24 +7171,24 @@
       },
       "rising_queries": [
         {
+          "query": "rick owen vans",
+          "value": 130
+        },
+        {
           "query": "rick owens shoes price",
           "value": 80
         },
         {
           "query": "rick owens vans",
+          "value": 80
+        },
+        {
+          "query": "brown rick owens",
           "value": 70
         },
         {
           "query": "vans",
           "value": 70
-        },
-        {
-          "query": "rick owens vintage",
-          "value": 60
-        },
-        {
-          "query": "rick owens vintage sneakers",
-          "value": 50
         }
       ]
     },
@@ -7118,7 +7234,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2025-09-07",
@@ -7230,7 +7346,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-03-22",
@@ -7291,35 +7407,18 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 0,
+        "latest": 1,
         "avg": 0.5,
         "change_pct": -25.0
       },
-      "rising_queries": [
-        {
-          "query": "dolce & gabbana dress",
-          "value": 450
-        },
-        {
-          "query": "dolce & gabbana sandals",
-          "value": 200
-        },
-        {
-          "query": "dolce and gabbana",
-          "value": 200
-        },
-        {
-          "query": "dolce and gabbana light blue",
-          "value": 180
-        },
-        {
-          "query": "dolce & gabbana light blue eau de toilette",
-          "value": 160
-        }
-      ]
+      "rising_queries": []
     },
     {
       "name": "Vivenne Westwood",
@@ -7536,6 +7635,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -7551,15 +7654,15 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 60
+          "value": 57
         },
         {
           "date": "2025-07-06",
-          "value": 63
+          "value": 61
         },
         {
           "date": "2025-07-13",
-          "value": 61
+          "value": 60
         },
         {
           "date": "2025-07-20",
@@ -7567,7 +7670,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 69
+          "value": 66
         },
         {
           "date": "2025-08-03",
@@ -7575,7 +7678,7 @@
         },
         {
           "date": "2025-08-10",
-          "value": 68
+          "value": 66
         },
         {
           "date": "2025-08-17",
@@ -7583,23 +7686,23 @@
         },
         {
           "date": "2025-08-24",
-          "value": 70
+          "value": 73
         },
         {
           "date": "2025-08-31",
-          "value": 67
+          "value": 68
         },
         {
           "date": "2025-09-07",
-          "value": 64
+          "value": 61
         },
         {
           "date": "2025-09-14",
-          "value": 56
+          "value": 55
         },
         {
           "date": "2025-09-21",
-          "value": 61
+          "value": 58
         },
         {
           "date": "2025-09-28",
@@ -7607,11 +7710,11 @@
         },
         {
           "date": "2025-10-05",
-          "value": 60
+          "value": 61
         },
         {
           "date": "2025-10-12",
-          "value": 59
+          "value": 60
         },
         {
           "date": "2025-10-19",
@@ -7619,11 +7722,11 @@
         },
         {
           "date": "2025-10-26",
-          "value": 57
+          "value": 54
         },
         {
           "date": "2025-11-02",
-          "value": 60
+          "value": 61
         },
         {
           "date": "2025-11-09",
@@ -7635,23 +7738,23 @@
         },
         {
           "date": "2025-11-23",
-          "value": 90
+          "value": 88
         },
         {
           "date": "2025-11-30",
-          "value": 76
+          "value": 77
         },
         {
           "date": "2025-12-07",
-          "value": 73
+          "value": 70
         },
         {
           "date": "2025-12-14",
-          "value": 73
+          "value": 71
         },
         {
           "date": "2025-12-21",
-          "value": 69
+          "value": 72
         },
         {
           "date": "2025-12-28",
@@ -7659,23 +7762,23 @@
         },
         {
           "date": "2026-01-04",
-          "value": 60
+          "value": 62
         },
         {
           "date": "2026-01-11",
-          "value": 61
+          "value": 60
         },
         {
           "date": "2026-01-18",
-          "value": 57
-        },
-        {
-          "date": "2026-01-25",
           "value": 56
         },
         {
+          "date": "2026-01-25",
+          "value": 55
+        },
+        {
           "date": "2026-02-01",
-          "value": 59
+          "value": 57
         },
         {
           "date": "2026-02-08",
@@ -7695,7 +7798,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 66
+          "value": 67
         },
         {
           "date": "2026-03-15",
@@ -7707,11 +7810,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 100
+          "value": 95
         },
         {
           "date": "2026-04-05",
-          "value": 99
+          "value": 100
         },
         {
           "date": "2026-04-12",
@@ -7719,31 +7822,31 @@
         },
         {
           "date": "2026-04-19",
-          "value": 91
+          "value": 93
         },
         {
           "date": "2026-04-26",
-          "value": 88
+          "value": 90
         },
         {
           "date": "2026-05-03",
-          "value": 92
+          "value": 91
         },
         {
           "date": "2026-05-10",
-          "value": 92
+          "value": 93
         },
         {
           "date": "2026-05-17",
-          "value": 79
+          "value": 80
         },
         {
           "date": "2026-05-24",
-          "value": 78
+          "value": 77
         },
         {
           "date": "2026-05-31",
-          "value": 84
+          "value": 81
         },
         {
           "date": "2026-06-07",
@@ -7751,42 +7854,46 @@
         },
         {
           "date": "2026-06-14",
-          "value": 68
+          "value": 69
         },
         {
           "date": "2026-06-21",
-          "value": 57
+          "value": 59
         },
         {
           "date": "2026-06-28",
           "value": 55
+        },
+        {
+          "date": "2026-07-05",
+          "value": 58
         }
       ],
       "summary": {
-        "latest": 55,
-        "avg": 69.4,
-        "change_pct": -24.3
+        "latest": 58,
+        "avg": 68.9,
+        "change_pct": -22.3
       },
       "rising_queries": [
         {
           "query": "nike mind 001",
-          "value": 52300
+          "value": 46800
         },
         {
           "query": "nike mind",
-          "value": 9850
+          "value": 9700
         },
         {
           "query": "nike mid 001",
-          "value": 5450
+          "value": 5850
         },
         {
           "query": "nike vomero plus",
-          "value": 4800
+          "value": 4850
         },
         {
           "query": "nike vomero premium",
-          "value": 1700
+          "value": 1750
         }
       ]
     },
@@ -7796,11 +7903,11 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 37
+          "value": 36
         },
         {
           "date": "2025-07-06",
-          "value": 39
+          "value": 42
         },
         {
           "date": "2025-07-13",
@@ -7808,47 +7915,47 @@
         },
         {
           "date": "2025-07-20",
-          "value": 39
+          "value": 41
         },
         {
           "date": "2025-07-27",
-          "value": 43
+          "value": 41
         },
         {
           "date": "2025-08-03",
-          "value": 45
+          "value": 47
         },
         {
           "date": "2025-08-10",
-          "value": 45
+          "value": 44
         },
         {
           "date": "2025-08-17",
-          "value": 44
+          "value": 43
         },
         {
           "date": "2025-08-24",
-          "value": 46
+          "value": 47
         },
         {
           "date": "2025-08-31",
-          "value": 49
+          "value": 50
         },
         {
           "date": "2025-09-07",
-          "value": 44
+          "value": 43
         },
         {
           "date": "2025-09-14",
-          "value": 42
+          "value": 41
         },
         {
           "date": "2025-09-21",
-          "value": 38
+          "value": 41
         },
         {
           "date": "2025-09-28",
-          "value": 42
+          "value": 41
         },
         {
           "date": "2025-10-05",
@@ -7856,27 +7963,27 @@
         },
         {
           "date": "2025-10-12",
-          "value": 41
+          "value": 42
         },
         {
           "date": "2025-10-19",
-          "value": 40
+          "value": 39
         },
         {
           "date": "2025-10-26",
-          "value": 37
+          "value": 39
         },
         {
           "date": "2025-11-02",
-          "value": 41
-        },
-        {
-          "date": "2025-11-09",
           "value": 43
         },
         {
+          "date": "2025-11-09",
+          "value": 42
+        },
+        {
           "date": "2025-11-16",
-          "value": 46
+          "value": 48
         },
         {
           "date": "2025-11-23",
@@ -7884,15 +7991,15 @@
         },
         {
           "date": "2025-11-30",
-          "value": 45
+          "value": 43
         },
         {
           "date": "2025-12-07",
-          "value": 42
+          "value": 41
         },
         {
           "date": "2025-12-14",
-          "value": 42
+          "value": 41
         },
         {
           "date": "2025-12-21",
@@ -7904,11 +8011,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 39
+          "value": 38
         },
         {
           "date": "2026-01-11",
-          "value": 36
+          "value": 37
         },
         {
           "date": "2026-01-18",
@@ -7920,7 +8027,7 @@
         },
         {
           "date": "2026-02-01",
-          "value": 40
+          "value": 39
         },
         {
           "date": "2026-02-08",
@@ -7936,7 +8043,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 46
+          "value": 45
         },
         {
           "date": "2026-03-08",
@@ -7944,19 +8051,19 @@
         },
         {
           "date": "2026-03-15",
-          "value": 50
+          "value": 49
         },
         {
           "date": "2026-03-22",
-          "value": 62
+          "value": 61
         },
         {
           "date": "2026-03-29",
-          "value": 76
+          "value": 72
         },
         {
           "date": "2026-04-05",
-          "value": 72
+          "value": 71
         },
         {
           "date": "2026-04-12",
@@ -7964,7 +8071,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 68
+          "value": 69
         },
         {
           "date": "2026-04-26",
@@ -7976,7 +8083,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 71
+          "value": 72
         },
         {
           "date": "2026-05-17",
@@ -7984,15 +8091,15 @@
         },
         {
           "date": "2026-05-24",
-          "value": 57
+          "value": 58
         },
         {
           "date": "2026-05-31",
-          "value": 61
+          "value": 60
         },
         {
           "date": "2026-06-07",
-          "value": 54
+          "value": 53
         },
         {
           "date": "2026-06-14",
@@ -8000,30 +8107,34 @@
         },
         {
           "date": "2026-06-21",
-          "value": 47
+          "value": 44
         },
         {
           "date": "2026-06-28",
-          "value": 43
+          "value": 42
+        },
+        {
+          "date": "2026-07-05",
+          "value": 46
         }
       ],
       "summary": {
-        "latest": 43,
-        "avg": 48.2,
-        "change_pct": -20.6
+        "latest": 46,
+        "avg": 48.0,
+        "change_pct": -19.6
       },
       "rising_queries": [
         {
           "query": "adidas men's adizero evo sl",
-          "value": 3550
-        },
-        {
-          "query": "adidas samba jane",
-          "value": 1550
+          "value": 3700
         },
         {
           "query": "nike vomero plus",
           "value": 1450
+        },
+        {
+          "query": "adidas samba jane",
+          "value": 1400
         },
         {
           "query": "adidas chinese jacket",
@@ -8031,7 +8142,7 @@
         },
         {
           "query": "adidas adizero evo sl",
-          "value": 500
+          "value": 550
         }
       ]
     },
@@ -8057,7 +8168,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2025-08-03",
@@ -8089,7 +8200,7 @@
         },
         {
           "date": "2025-09-21",
-          "value": 15
+          "value": 14
         },
         {
           "date": "2025-09-28",
@@ -8097,7 +8208,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 14
+          "value": 15
         },
         {
           "date": "2025-10-12",
@@ -8109,19 +8220,19 @@
         },
         {
           "date": "2025-10-26",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2025-11-02",
-          "value": 13
-        },
-        {
-          "date": "2025-11-09",
           "value": 14
         },
         {
-          "date": "2025-11-16",
+          "date": "2025-11-09",
           "value": 15
+        },
+        {
+          "date": "2025-11-16",
+          "value": 14
         },
         {
           "date": "2025-11-23",
@@ -8137,7 +8248,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 15
+          "value": 14
         },
         {
           "date": "2025-12-21",
@@ -8173,7 +8284,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2026-02-22",
@@ -8185,7 +8296,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2026-03-15",
@@ -8193,7 +8304,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2026-03-29",
@@ -8205,11 +8316,11 @@
         },
         {
           "date": "2026-04-12",
-          "value": 29
+          "value": 30
         },
         {
           "date": "2026-04-19",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2026-04-26",
@@ -8229,15 +8340,15 @@
         },
         {
           "date": "2026-05-24",
-          "value": 20
+          "value": 21
         },
         {
           "date": "2026-05-31",
-          "value": 23
+          "value": 22
         },
         {
           "date": "2026-06-07",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2026-06-14",
@@ -8250,21 +8361,25 @@
         {
           "date": "2026-06-28",
           "value": 13
+        },
+        {
+          "date": "2026-07-05",
+          "value": 13
         }
       ],
       "summary": {
         "latest": 13,
-        "avg": 16.9,
-        "change_pct": -38.8
+        "avg": 16.7,
+        "change_pct": -30.9
       },
       "rising_queries": [
         {
           "query": "puma speedcat wedge",
-          "value": 11050
+          "value": 12200
         },
         {
           "query": "puma velocity nitro 4",
-          "value": 1450
+          "value": 1550
         },
         {
           "query": "puma wedges",
@@ -8272,7 +8387,7 @@
         },
         {
           "query": "puma babet",
-          "value": 1150
+          "value": 1250
         },
         {
           "query": "puma wedge sneakers",
@@ -8310,7 +8425,7 @@
         },
         {
           "date": "2025-08-10",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-17",
@@ -8318,7 +8433,7 @@
         },
         {
           "date": "2025-08-24",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-31",
@@ -8378,7 +8493,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-12-14",
@@ -8442,7 +8557,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-04-05",
@@ -8458,11 +8573,11 @@
         },
         {
           "date": "2026-04-26",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-05-03",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2026-05-10",
@@ -8495,33 +8610,37 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
         "latest": 3,
-        "avg": 7.4,
-        "change_pct": -66.7
+        "avg": 7.3,
+        "change_pct": -58.5
       },
       "rising_queries": [
         {
-          "query": "under armour sunglasses",
-          "value": 3650
+          "query": "under armour band fitness tracker",
+          "value": 16050
         },
         {
-          "query": "under armour sola",
-          "value": 2400
+          "query": "under armour women's rival fleece hoodie",
+          "value": 7200
         },
         {
-          "query": "under armour set",
-          "value": 1700
+          "query": "under armour men's rival fleece hoodie",
+          "value": 4000
         },
         {
-          "query": "under armour men's charged assert 10 running shoes",
-          "value": 1650
+          "query": "under armour contain backpack",
+          "value": 2600
         },
         {
-          "query": "under armour hellcat",
-          "value": 1100
+          "query": "under armour backpack",
+          "value": 750
         }
       ]
     },
@@ -8571,7 +8690,7 @@
         },
         {
           "date": "2025-09-07",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-09-14",
@@ -8583,15 +8702,15 @@
         },
         {
           "date": "2025-09-28",
-          "value": 18
-        },
-        {
-          "date": "2025-10-05",
           "value": 19
         },
         {
+          "date": "2025-10-05",
+          "value": 18
+        },
+        {
           "date": "2025-10-12",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2025-10-19",
@@ -8611,7 +8730,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2025-11-23",
@@ -8623,15 +8742,15 @@
         },
         {
           "date": "2025-12-07",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-12-14",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-12-21",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-12-28",
@@ -8647,7 +8766,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2026-01-25",
@@ -8663,7 +8782,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-02-22",
@@ -8671,7 +8790,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 21
+          "value": 20
         },
         {
           "date": "2026-03-08",
@@ -8687,7 +8806,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 34
+          "value": 33
         },
         {
           "date": "2026-04-05",
@@ -8695,11 +8814,11 @@
         },
         {
           "date": "2026-04-12",
-          "value": 36
+          "value": 35
         },
         {
           "date": "2026-04-19",
-          "value": 34
+          "value": 33
         },
         {
           "date": "2026-04-26",
@@ -8707,11 +8826,11 @@
         },
         {
           "date": "2026-05-03",
-          "value": 43
+          "value": 37
         },
         {
           "date": "2026-05-10",
-          "value": 36
+          "value": 35
         },
         {
           "date": "2026-05-17",
@@ -8719,7 +8838,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 25
+          "value": 24
         },
         {
           "date": "2026-05-31",
@@ -8731,42 +8850,46 @@
         },
         {
           "date": "2026-06-14",
-          "value": 19
+          "value": 20
         },
         {
           "date": "2026-06-21",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-06-28",
           "value": 14
+        },
+        {
+          "date": "2026-07-05",
+          "value": 13
         }
       ],
       "summary": {
-        "latest": 14,
-        "avg": 21.3,
-        "change_pct": -38.9
+        "latest": 13,
+        "avg": 20.8,
+        "change_pct": -35.4
       },
       "rising_queries": [
         {
-          "query": "new balance fresh foam x more v6",
-          "value": 7950
+          "query": "new balance men's fresh foam x more v6",
+          "value": 9700
+        },
+        {
+          "query": "new balance 204l mushroom",
+          "value": 7050
         },
         {
           "query": "new balance 204l",
-          "value": 6100
-        },
-        {
-          "query": "new balance ellipse",
-          "value": 5850
+          "value": 6200
         },
         {
           "query": "new balance more v6",
-          "value": 4800
+          "value": 4600
         },
         {
-          "query": "new balance outdoor nationals 2026",
-          "value": 2950
+          "query": "new balance 204",
+          "value": 2750
         }
       ]
     },
@@ -8780,7 +8903,7 @@
         },
         {
           "date": "2025-07-06",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-13",
@@ -8836,7 +8959,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 10
+          "value": 11
         },
         {
           "date": "2025-10-19",
@@ -8864,7 +8987,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-12-07",
@@ -8932,11 +9055,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-04-05",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2026-04-12",
@@ -8948,7 +9071,7 @@
         },
         {
           "date": "2026-04-26",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2026-05-03",
@@ -8960,11 +9083,11 @@
         },
         {
           "date": "2026-05-17",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2026-05-24",
-          "value": 12
+          "value": 13
         },
         {
           "date": "2026-05-31",
@@ -8985,33 +9108,37 @@
         {
           "date": "2026-06-28",
           "value": 9
+        },
+        {
+          "date": "2026-07-05",
+          "value": 9
         }
       ],
       "summary": {
         "latest": 9,
-        "avg": 11.1,
-        "change_pct": -24.5
+        "avg": 11.0,
+        "change_pct": -24.0
       },
       "rising_queries": [
         {
           "query": "asics megablast",
-          "value": 12300
+          "value": 12850
         },
         {
           "query": "asics sonicblast",
-          "value": 3800
-        },
-        {
-          "query": "asics men's gel-venture 10 running shoes",
-          "value": 3000
-        },
-        {
-          "query": "asics gel nimbus 28",
-          "value": 2800
+          "value": 3650
         },
         {
           "query": "asics gel-kayano 32",
-          "value": 2650
+          "value": 2850
+        },
+        {
+          "query": "asics gel nimbus 28",
+          "value": 2700
+        },
+        {
+          "query": "asics nimbus 28",
+          "value": 2450
         }
       ]
     },
@@ -9145,7 +9272,7 @@
         },
         {
           "date": "2026-02-01",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2026-02-08",
@@ -9173,7 +9300,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2026-03-29",
@@ -9181,7 +9308,7 @@
         },
         {
           "date": "2026-04-05",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2026-04-12",
@@ -9209,7 +9336,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-05-31",
@@ -9230,21 +9357,25 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
-        "avg": 5.4,
-        "change_pct": -72.9
+        "avg": 5.3,
+        "change_pct": -64.5
       },
       "rising_queries": [
         {
-          "query": "reebok playstation",
-          "value": 2900
+          "query": "reebok charge run",
+          "value": 11700
         },
         {
-          "query": "reebok women's club c 85",
-          "value": 1300
+          "query": "reebok shorts",
+          "value": 550
         },
         {
           "query": "under armour",
@@ -9256,7 +9387,7 @@
         },
         {
           "query": "reebok nano x5",
-          "value": 170
+          "value": 200
         }
       ]
     },
@@ -9294,11 +9425,11 @@
         },
         {
           "date": "2025-08-17",
-          "value": 10
+          "value": 11
         },
         {
           "date": "2025-08-24",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-08-31",
@@ -9314,7 +9445,7 @@
         },
         {
           "date": "2025-09-21",
-          "value": 10
+          "value": 11
         },
         {
           "date": "2025-09-28",
@@ -9330,7 +9461,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-10-26",
@@ -9354,7 +9485,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2025-12-07",
@@ -9390,7 +9521,7 @@
         },
         {
           "date": "2026-02-01",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-02-08",
@@ -9422,11 +9553,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2026-04-05",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2026-04-12",
@@ -9434,7 +9565,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-04-26",
@@ -9475,33 +9606,37 @@
         {
           "date": "2026-06-28",
           "value": 7
+        },
+        {
+          "date": "2026-07-05",
+          "value": 6
         }
       ],
       "summary": {
-        "latest": 7,
-        "avg": 10.4,
-        "change_pct": -18.4
+        "latest": 6,
+        "avg": 10.3,
+        "change_pct": -24.3
       },
       "rising_queries": [
         {
-          "query": "amex lululemon credit",
-          "value": 5950
-        },
-        {
           "query": "スカイ スキャナー",
-          "value": 4250
+          "value": 3800
         },
         {
-          "query": "lululemon europe",
-          "value": 250
+          "query": "lululemon scuba set",
+          "value": 1050
         },
         {
-          "query": "lululemon japan",
-          "value": 250
+          "query": "lululemon the mat",
+          "value": 800
         },
         {
-          "query": "lululemon set",
-          "value": 250
+          "query": "lululemon france",
+          "value": 650
+        },
+        {
+          "query": "lululemon deutschland",
+          "value": 600
         }
       ]
     },
@@ -9563,11 +9698,11 @@
         },
         {
           "date": "2025-09-28",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-10-05",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-10-12",
@@ -9639,7 +9774,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-02-15",
@@ -9675,7 +9810,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2026-04-19",
@@ -9683,7 +9818,7 @@
         },
         {
           "date": "2026-04-26",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-05-03",
@@ -9715,38 +9850,42 @@
         },
         {
           "date": "2026-06-21",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-06-28",
+          "value": 4
+        },
+        {
+          "date": "2026-07-05",
           "value": 4
         }
       ],
       "summary": {
         "latest": 4,
         "avg": 5.3,
-        "change_pct": -25.0
+        "change_pct": -30.8
       },
       "rising_queries": [
         {
+          "query": "best winter running gear",
+          "value": 7850
+        },
+        {
           "query": "running plans for beginners",
-          "value": 9650
+          "value": 5650
         },
         {
           "query": "technology news today",
-          "value": 5350
-        },
-        {
-          "query": "best winter running gear",
-          "value": 3900
+          "value": 4650
         },
         {
           "query": "best running shoes 2025",
-          "value": 1600
+          "value": 1550
         },
         {
-          "query": "how to choose running shoes",
-          "value": 1050
+          "query": "how to stop apps running in background android",
+          "value": 1000
         }
       ]
     },
@@ -9764,7 +9903,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-07-20",
@@ -9788,7 +9927,7 @@
         },
         {
           "date": "2025-08-24",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-31",
@@ -9808,7 +9947,7 @@
         },
         {
           "date": "2025-09-28",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-10-05",
@@ -9876,7 +10015,7 @@
         },
         {
           "date": "2026-01-25",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-02-01",
@@ -9912,7 +10051,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2026-04-05",
@@ -9936,7 +10075,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-05-17",
@@ -9965,12 +10104,16 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 4
         }
       ],
       "summary": {
         "latest": 4,
-        "avg": 5.0,
-        "change_pct": -10.0
+        "avg": 4.9,
+        "change_pct": -15.0
       },
       "rising_queries": [
         {
@@ -9987,11 +10130,11 @@
         },
         {
           "query": "salomon x ultra 5",
-          "value": 500
+          "value": 550
         },
         {
           "query": "bruno salomon",
-          "value": 500
+          "value": 450
         }
       ]
     },
@@ -10005,7 +10148,7 @@
         },
         {
           "date": "2025-07-06",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2025-07-13",
@@ -10073,7 +10216,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-11-09",
@@ -10210,33 +10353,37 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
         "latest": 3,
-        "avg": 5.6,
-        "change_pct": -34.6
+        "avg": 5.5,
+        "change_pct": -34.8
       },
       "rising_queries": [
         {
+          "query": "patagonia men's lightweight synchilla snap-t fleece pullover",
+          "value": 3800
+        },
+        {
+          "query": "patagonia women's lightweight synchilla snap-t fleece pullover",
+          "value": 2700
+        },
+        {
+          "query": "patagonia men's diamond quilted bomber hoody",
+          "value": 1050
+        },
+        {
           "query": "patagonia men's torrentshell 3l rain jacket",
-          "value": 850
+          "value": 900
         },
         {
           "query": "patagonia women's torrentshell 3l rain jacket",
-          "value": 700
-        },
-        {
-          "query": "patagonia us",
-          "value": 450
-        },
-        {
-          "query": "patagonia refugio 26l",
-          "value": 450
-        },
-        {
-          "query": "patagonia usa",
-          "value": 300
+          "value": 750
         }
       ]
     },
@@ -10270,7 +10417,7 @@
         },
         {
           "date": "2025-08-10",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2025-08-17",
@@ -10334,15 +10481,15 @@
         },
         {
           "date": "2025-11-30",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-12-07",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-12-14",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-12-21",
@@ -10370,11 +10517,11 @@
         },
         {
           "date": "2026-02-01",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2026-02-08",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-02-15",
@@ -10410,7 +10557,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-04-19",
@@ -10455,17 +10602,21 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
-        "avg": 3.8,
-        "change_pct": -44.4
+        "avg": 3.7,
+        "change_pct": -40.0
       },
       "rising_queries": [
         {
           "query": "the north face us",
-          "value": 450
+          "value": 400
         },
         {
           "query": "the north face jester backpack",
@@ -10476,12 +10627,12 @@
           "value": 300
         },
         {
-          "query": "the north face uk",
+          "query": "the north face recon",
           "value": 250
         },
         {
-          "query": "the north face hoodie",
-          "value": 180
+          "query": "the north face uk",
+          "value": 250
         }
       ]
     },
@@ -10515,7 +10666,7 @@
         },
         {
           "date": "2025-08-10",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-08-17",
@@ -10679,11 +10830,11 @@
         },
         {
           "date": "2026-05-24",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-05-31",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-06-07",
@@ -10691,7 +10842,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-06-21",
@@ -10699,6 +10850,10 @@
         },
         {
           "date": "2026-06-28",
+          "value": 0
+        },
+        {
+          "date": "2026-07-05",
           "value": 0
         }
       ],
@@ -10709,24 +10864,24 @@
       },
       "rising_queries": [
         {
-          "query": "arc'teryx beta sl jacket men's",
-          "value": 500
+          "query": "openai news today",
+          "value": 22350
+        },
+        {
+          "query": "arc'teryx uk",
+          "value": 400
         },
         {
           "query": "arc'teryx beta sl",
-          "value": 200
-        },
-        {
-          "query": "arc'teryx sale",
-          "value": 150
-        },
-        {
-          "query": "arc'teryx beta ar",
-          "value": 130
+          "value": 180
         },
         {
           "query": "arc'teryx atom hoody",
-          "value": 120
+          "value": 140
+        },
+        {
+          "query": "arc'teryx sale",
+          "value": 140
         }
       ]
     },
@@ -10744,7 +10899,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 13
+          "value": 14
         },
         {
           "date": "2025-07-20",
@@ -10764,7 +10919,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 16
+          "value": 17
         },
         {
           "date": "2025-08-24",
@@ -10780,7 +10935,7 @@
         },
         {
           "date": "2025-09-14",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2025-09-21",
@@ -10788,11 +10943,11 @@
         },
         {
           "date": "2025-09-28",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2025-10-05",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2025-10-12",
@@ -10840,7 +10995,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 16
+          "value": 17
         },
         {
           "date": "2026-01-04",
@@ -10868,7 +11023,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-02-22",
@@ -10876,15 +11031,15 @@
         },
         {
           "date": "2026-03-01",
-          "value": 18
-        },
-        {
-          "date": "2026-03-08",
           "value": 17
         },
         {
+          "date": "2026-03-08",
+          "value": 16
+        },
+        {
           "date": "2026-03-15",
-          "value": 15
+          "value": 17
         },
         {
           "date": "2026-03-22",
@@ -10892,7 +11047,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 22
+          "value": 21
         },
         {
           "date": "2026-04-05",
@@ -10900,15 +11055,15 @@
         },
         {
           "date": "2026-04-12",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2026-04-19",
-          "value": 21
+          "value": 20
         },
         {
           "date": "2026-04-26",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-05-03",
@@ -10924,7 +11079,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2026-05-31",
@@ -10932,11 +11087,11 @@
         },
         {
           "date": "2026-06-07",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-06-14",
-          "value": 20
+          "value": 21
         },
         {
           "date": "2026-06-21",
@@ -10945,25 +11100,29 @@
         {
           "date": "2026-06-28",
           "value": 17
+        },
+        {
+          "date": "2026-07-05",
+          "value": 12
         }
       ],
       "summary": {
-        "latest": 17,
-        "avg": 17.7,
-        "change_pct": -11.1
+        "latest": 12,
+        "avg": 17.6,
+        "change_pct": -12.0
       },
       "rising_queries": [
         {
           "query": "ai news today",
-          "value": 18550
+          "value": 19400
         },
         {
           "query": "columbia men's fairbanks omni-heat",
-          "value": 1600
+          "value": 1850
         },
         {
           "query": "columbia men's bugaboot iii",
-          "value": 1000
+          "value": 1050
         },
         {
           "query": "columbia game",
@@ -10971,7 +11130,7 @@
         },
         {
           "query": "columbia bank",
-          "value": 190
+          "value": 200
         }
       ]
     },
@@ -10981,23 +11140,23 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 34
+          "value": 35
         },
         {
           "date": "2025-07-06",
-          "value": 30
+          "value": 31
         },
         {
           "date": "2025-07-13",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2025-07-20",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2025-07-27",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2025-08-03",
@@ -11009,23 +11168,23 @@
         },
         {
           "date": "2025-08-17",
-          "value": 30
+          "value": 31
         },
         {
           "date": "2025-08-24",
-          "value": 32
+          "value": 31
         },
         {
           "date": "2025-08-31",
-          "value": 30
+          "value": 31
         },
         {
           "date": "2025-09-07",
-          "value": 30
+          "value": 32
         },
         {
           "date": "2025-09-14",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2025-09-21",
@@ -11037,23 +11196,23 @@
         },
         {
           "date": "2025-10-05",
-          "value": 34
+          "value": 33
         },
         {
           "date": "2025-10-12",
-          "value": 33
-        },
-        {
-          "date": "2025-10-19",
           "value": 32
         },
         {
-          "date": "2025-10-26",
+          "date": "2025-10-19",
           "value": 33
         },
         {
+          "date": "2025-10-26",
+          "value": 32
+        },
+        {
           "date": "2025-11-02",
-          "value": 33
+          "value": 34
         },
         {
           "date": "2025-11-09",
@@ -11065,7 +11224,7 @@
         },
         {
           "date": "2025-11-23",
-          "value": 56
+          "value": 53
         },
         {
           "date": "2025-11-30",
@@ -11073,7 +11232,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 36
+          "value": 35
         },
         {
           "date": "2025-12-14",
@@ -11085,11 +11244,11 @@
         },
         {
           "date": "2025-12-28",
-          "value": 39
+          "value": 38
         },
         {
           "date": "2026-01-04",
-          "value": 37
+          "value": 36
         },
         {
           "date": "2026-01-11",
@@ -11097,11 +11256,11 @@
         },
         {
           "date": "2026-01-18",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2026-01-25",
-          "value": 31
+          "value": 30
         },
         {
           "date": "2026-02-01",
@@ -11113,15 +11272,15 @@
         },
         {
           "date": "2026-02-15",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2026-02-22",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2026-03-01",
-          "value": 32
+          "value": 30
         },
         {
           "date": "2026-03-08",
@@ -11137,11 +11296,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 39
+          "value": 41
         },
         {
           "date": "2026-04-05",
-          "value": 44
+          "value": 45
         },
         {
           "date": "2026-04-12",
@@ -11157,7 +11316,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 50
+          "value": 51
         },
         {
           "date": "2026-05-10",
@@ -11165,7 +11324,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 39
+          "value": 41
         },
         {
           "date": "2026-05-24",
@@ -11173,11 +11332,11 @@
         },
         {
           "date": "2026-05-31",
-          "value": 38
+          "value": 37
         },
         {
           "date": "2026-06-07",
-          "value": 31
+          "value": 32
         },
         {
           "date": "2026-06-14",
@@ -11189,34 +11348,38 @@
         },
         {
           "date": "2026-06-28",
-          "value": 31
+          "value": 32
+        },
+        {
+          "date": "2026-07-05",
+          "value": 25
         }
       ],
       "summary": {
-        "latest": 31,
-        "avg": 35.1,
-        "change_pct": -18.0
+        "latest": 25,
+        "avg": 34.9,
+        "change_pct": -14.2
       },
       "rising_queries": [
         {
-          "query": "zara larsson midnight sun",
-          "value": 3500
+          "query": "zara qairina",
+          "value": 24100
         },
         {
-          "query": "amelia dimoldenberg",
-          "value": 1450
-        },
-        {
-          "query": "zara larsson wikipedia",
-          "value": 1350
+          "query": "zara larsson tour",
+          "value": 1000
         },
         {
           "query": "zara larsson boyfriend",
-          "value": 950
+          "value": 900
         },
         {
           "query": "zara larson",
           "value": 700
+        },
+        {
+          "query": "zara larsson lush life",
+          "value": 550
         }
       ]
     },
@@ -11230,7 +11393,7 @@
         },
         {
           "date": "2025-07-06",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-13",
@@ -11246,11 +11409,11 @@
         },
         {
           "date": "2025-08-03",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-08-10",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-08-17",
@@ -11262,7 +11425,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 12
+          "value": 13
         },
         {
           "date": "2025-09-07",
@@ -11282,7 +11445,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2025-10-12",
@@ -11302,15 +11465,15 @@
         },
         {
           "date": "2025-11-09",
-          "value": 13
-        },
-        {
-          "date": "2025-11-16",
           "value": 14
         },
         {
+          "date": "2025-11-16",
+          "value": 13
+        },
+        {
           "date": "2025-11-23",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-11-30",
@@ -11354,7 +11517,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-02-15",
@@ -11382,11 +11545,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2026-04-05",
-          "value": 28
+          "value": 27
         },
         {
           "date": "2026-04-12",
@@ -11398,15 +11561,15 @@
         },
         {
           "date": "2026-04-26",
-          "value": 27
+          "value": 28
         },
         {
           "date": "2026-05-03",
-          "value": 33
+          "value": 32
         },
         {
           "date": "2026-05-10",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2026-05-17",
@@ -11422,7 +11585,7 @@
         },
         {
           "date": "2026-06-07",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-06-14",
@@ -11435,32 +11598,36 @@
         {
           "date": "2026-06-28",
           "value": 10
+        },
+        {
+          "date": "2026-07-05",
+          "value": 8
         }
       ],
       "summary": {
-        "latest": 10,
-        "avg": 14.0,
-        "change_pct": -43.6
+        "latest": 8,
+        "avg": 13.7,
+        "change_pct": -30.5
       },
       "rising_queries": [
         {
           "query": "h&m move",
-          "value": 850
-        },
-        {
-          "query": "h&m jeans",
-          "value": 170
+          "value": 750
         },
         {
           "query": "h&m france",
+          "value": 170
+        },
+        {
+          "query": "h&m usa",
           "value": 160
         },
         {
-          "query": "h&m men",
+          "query": "gap",
           "value": 150
         },
         {
-          "query": "gap",
+          "query": "h&m jeans",
           "value": 150
         }
       ]
@@ -11515,11 +11682,11 @@
         },
         {
           "date": "2025-09-14",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-09-21",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2025-09-28",
@@ -11547,7 +11714,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-11-16",
@@ -11571,15 +11738,15 @@
         },
         {
           "date": "2025-12-21",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-12-28",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2026-01-04",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-01-11",
@@ -11587,7 +11754,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-01-25",
@@ -11599,7 +11766,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-02-15",
@@ -11611,7 +11778,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-03-08",
@@ -11619,7 +11786,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 10
+          "value": 9
         },
         {
           "date": "2026-03-22",
@@ -11647,7 +11814,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 22
+          "value": 21
         },
         {
           "date": "2026-05-10",
@@ -11680,29 +11847,33 @@
         {
           "date": "2026-06-28",
           "value": 8
+        },
+        {
+          "date": "2026-07-05",
+          "value": 10
         }
       ],
       "summary": {
-        "latest": 8,
-        "avg": 11.0,
-        "change_pct": -38.6
+        "latest": 10,
+        "avg": 10.8,
+        "change_pct": -23.4
       },
       "rising_queries": [
         {
-          "query": "uniqlo cecilie bahnsen",
-          "value": 2450
+          "query": "uniqlo multi pocket backpack",
+          "value": 8400
+        },
+        {
+          "query": "uniqlo needles",
+          "value": 4200
         },
         {
           "query": "uniqlo backpack",
-          "value": 1650
+          "value": 1500
         },
         {
           "query": "uniqlo us",
           "value": 450
-        },
-        {
-          "query": "uniqlo culottes",
-          "value": 350
         },
         {
           "query": "uniqlo shorts",
@@ -11724,15 +11895,15 @@
         },
         {
           "date": "2025-07-13",
-          "value": 29
+          "value": 30
         },
         {
           "date": "2025-07-20",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2025-07-27",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2025-08-03",
@@ -11740,11 +11911,11 @@
         },
         {
           "date": "2025-08-10",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2025-08-17",
-          "value": 29
+          "value": 28
         },
         {
           "date": "2025-08-24",
@@ -11760,11 +11931,11 @@
         },
         {
           "date": "2025-09-14",
-          "value": 26
+          "value": 27
         },
         {
           "date": "2025-09-21",
-          "value": 27
+          "value": 28
         },
         {
           "date": "2025-09-28",
@@ -11772,23 +11943,23 @@
         },
         {
           "date": "2025-10-05",
-          "value": 29
-        },
-        {
-          "date": "2025-10-12",
           "value": 28
         },
         {
+          "date": "2025-10-12",
+          "value": 29
+        },
+        {
           "date": "2025-10-19",
-          "value": 27
+          "value": 28
         },
         {
           "date": "2025-10-26",
-          "value": 25
+          "value": 26
         },
         {
           "date": "2025-11-02",
-          "value": 35
+          "value": 34
         },
         {
           "date": "2025-11-09",
@@ -11796,19 +11967,19 @@
         },
         {
           "date": "2025-11-16",
-          "value": 29
-        },
-        {
-          "date": "2025-11-23",
           "value": 28
         },
         {
-          "date": "2025-11-30",
+          "date": "2025-11-23",
           "value": 27
         },
         {
+          "date": "2025-11-30",
+          "value": 26
+        },
+        {
           "date": "2025-12-07",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2025-12-14",
@@ -11824,11 +11995,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-01-11",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2026-01-18",
@@ -11848,11 +12019,11 @@
         },
         {
           "date": "2026-02-15",
-          "value": 22
+          "value": 21
         },
         {
           "date": "2026-02-22",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2026-03-01",
@@ -11860,15 +12031,15 @@
         },
         {
           "date": "2026-03-08",
-          "value": 25
-        },
-        {
-          "date": "2026-03-15",
           "value": 24
         },
         {
-          "date": "2026-03-22",
+          "date": "2026-03-15",
           "value": 25
+        },
+        {
+          "date": "2026-03-22",
+          "value": 24
         },
         {
           "date": "2026-03-29",
@@ -11876,7 +12047,7 @@
         },
         {
           "date": "2026-04-05",
-          "value": 27
+          "value": 26
         },
         {
           "date": "2026-04-12",
@@ -11888,11 +12059,11 @@
         },
         {
           "date": "2026-04-26",
-          "value": 24
+          "value": 25
         },
         {
           "date": "2026-05-03",
-          "value": 26
+          "value": 25
         },
         {
           "date": "2026-05-10",
@@ -11908,11 +12079,11 @@
         },
         {
           "date": "2026-05-31",
-          "value": 26
+          "value": 27
         },
         {
           "date": "2026-06-07",
-          "value": 25
+          "value": 26
         },
         {
           "date": "2026-06-14",
@@ -11924,22 +12095,26 @@
         },
         {
           "date": "2026-06-28",
-          "value": 23
+          "value": 22
+        },
+        {
+          "date": "2026-07-05",
+          "value": 19
         }
       ],
       "summary": {
-        "latest": 23,
-        "avg": 25.8,
-        "change_pct": -8.7
+        "latest": 19,
+        "avg": 25.6,
+        "change_pct": -16.2
       },
       "rising_queries": [
         {
           "query": "shein reviews",
-          "value": 900
+          "value": 850
         },
         {
           "query": "shein india",
-          "value": 450
+          "value": 400
         },
         {
           "query": "shein germany",
@@ -11950,7 +12125,7 @@
           "value": 350
         },
         {
-          "query": "shein deutschland",
+          "query": "shein israel",
           "value": 300
         }
       ]
@@ -11981,7 +12156,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-08-10",
@@ -11989,11 +12164,11 @@
         },
         {
           "date": "2025-08-17",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2025-08-24",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2025-08-31",
@@ -12001,7 +12176,7 @@
         },
         {
           "date": "2025-09-07",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-09-14",
@@ -12013,7 +12188,7 @@
         },
         {
           "date": "2025-09-28",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-10-05",
@@ -12021,7 +12196,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 19
+          "value": 17
         },
         {
           "date": "2025-10-19",
@@ -12033,11 +12208,11 @@
         },
         {
           "date": "2025-11-02",
-          "value": 16
+          "value": 18
         },
         {
           "date": "2025-11-09",
-          "value": 19
+          "value": 20
         },
         {
           "date": "2025-11-16",
@@ -12045,27 +12220,27 @@
         },
         {
           "date": "2025-11-23",
-          "value": 23
+          "value": 24
         },
         {
           "date": "2025-11-30",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-12-07",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2025-12-14",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-12-21",
-          "value": 18
+          "value": 19
         },
         {
           "date": "2025-12-28",
-          "value": 18
+          "value": 19
         },
         {
           "date": "2026-01-04",
@@ -12077,7 +12252,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2026-01-25",
@@ -12089,7 +12264,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-02-15",
@@ -12101,11 +12276,11 @@
         },
         {
           "date": "2026-03-01",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2026-03-08",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2026-03-15",
@@ -12117,11 +12292,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 22
+          "value": 21
         },
         {
           "date": "2026-04-05",
-          "value": 24
+          "value": 22
         },
         {
           "date": "2026-04-12",
@@ -12129,7 +12304,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 23
+          "value": 22
         },
         {
           "date": "2026-04-26",
@@ -12145,7 +12320,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 26
+          "value": 27
         },
         {
           "date": "2026-05-24",
@@ -12153,7 +12328,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 25
+          "value": 24
         },
         {
           "date": "2026-06-07",
@@ -12169,34 +12344,38 @@
         },
         {
           "date": "2026-06-28",
-          "value": 19
+          "value": 21
+        },
+        {
+          "date": "2026-07-05",
+          "value": 18
         }
       ],
       "summary": {
-        "latest": 19,
-        "avg": 19.9,
-        "change_pct": -9.0
+        "latest": 18,
+        "avg": 19.8,
+        "change_pct": -14.9
       },
       "rising_queries": [
         {
           "query": "mango sticky rice near me",
-          "value": 600
-        },
-        {
-          "query": "oris mango",
-          "value": 400
+          "value": 550
         },
         {
           "query": "mango ai",
           "value": 400
         },
         {
-          "query": "mango libreria",
-          "value": 350
+          "query": "mango spain",
+          "value": 160
         },
         {
-          "query": "mango canvas",
-          "value": 190
+          "query": "mango home",
+          "value": 150
+        },
+        {
+          "query": "mango france",
+          "value": 150
         }
       ]
     },
@@ -12415,6 +12594,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -12425,7 +12608,11 @@
       "rising_queries": [
         {
           "query": "code promo pull & bear",
-          "value": 200
+          "value": 250
+        },
+        {
+          "query": "pull and bear",
+          "value": 40
         }
       ]
     },
@@ -12455,7 +12642,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-10",
@@ -12515,7 +12702,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-11-23",
@@ -12523,7 +12710,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-12-07",
@@ -12543,7 +12730,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-01-11",
@@ -12575,7 +12762,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-03-08",
@@ -12644,33 +12831,37 @@
         {
           "date": "2026-06-28",
           "value": 5
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
-        "latest": 5,
-        "avg": 4.8,
-        "change_pct": 11.1
+        "latest": 3,
+        "avg": 4.7,
+        "change_pct": -5.3
       },
       "rising_queries": [
         {
           "query": "bershka brasil",
-          "value": 1350
+          "value": 1300
         },
         {
-          "query": "bershka deutschland",
-          "value": 200
+          "query": "bershka india",
+          "value": 400
         },
         {
-          "query": "cold culture",
-          "value": 130
+          "query": "bershka uk",
+          "value": 70
         },
         {
-          "query": "bershka canada",
-          "value": 110
+          "query": "bershka bikini",
+          "value": 60
         },
         {
-          "query": "bershka france",
-          "value": 80
+          "query": "bershka near me",
+          "value": 60
         }
       ]
     },
@@ -12784,7 +12975,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-01-04",
@@ -12836,7 +13027,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2026-04-05",
@@ -12889,17 +13080,21 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
-        "latest": 4,
+        "latest": 2,
         "avg": 3.5,
-        "change_pct": 7.7
+        "change_pct": 0.0
       },
       "rising_queries": [
         {
           "query": "one dilemma x stradivarius",
-          "value": 10700
+          "value": 10600
         },
         {
           "query": "stradivarius germany",
@@ -12907,7 +13102,7 @@
         },
         {
           "query": "stradivarius spain",
-          "value": 130
+          "value": 120
         },
         {
           "query": "gina tricot",
@@ -13025,7 +13220,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2025-12-28",
@@ -13129,29 +13324,25 @@
         },
         {
           "date": "2026-06-21",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
-        "avg": 2.0,
+        "latest": 1,
+        "avg": 2.1,
         "change_pct": 0.0
       },
       "rising_queries": [
         {
-          "query": "massimo dutti india",
-          "value": 300
-        },
-        {
           "query": "massimo dutti australia",
-          "value": 110
-        },
-        {
-          "query": "massimo dutti deutschland",
           "value": 110
         },
         {
@@ -13159,8 +13350,12 @@
           "value": 100
         },
         {
-          "query": "massimo dutti discount code",
-          "value": 90
+          "query": "massimo dutti españa",
+          "value": 60
+        },
+        {
+          "query": "massimo dutti loafers",
+          "value": 50
         }
       ]
     },
@@ -13178,7 +13373,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-07-20",
@@ -13190,7 +13385,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2025-08-10",
@@ -13230,7 +13425,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-10-19",
@@ -13242,7 +13437,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-11-09",
@@ -13250,11 +13445,11 @@
         },
         {
           "date": "2025-11-16",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-11-23",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-11-30",
@@ -13306,7 +13501,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-03-01",
@@ -13314,7 +13509,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-03-15",
@@ -13326,7 +13521,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-04-05",
@@ -13334,11 +13529,11 @@
         },
         {
           "date": "2026-04-12",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-04-19",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-04-26",
@@ -13346,7 +13541,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-05-10",
@@ -13374,22 +13569,30 @@
         },
         {
           "date": "2026-06-21",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-06-28",
           "value": 7
+        },
+        {
+          "date": "2026-07-05",
+          "value": 6
         }
       ],
       "summary": {
-        "latest": 7,
-        "avg": 7.8,
-        "change_pct": -6.1
+        "latest": 6,
+        "avg": 7.7,
+        "change_pct": -12.5
       },
       "rising_queries": [
         {
+          "query": "cos near me",
+          "value": 250
+        },
+        {
           "query": "cos malaysia",
-          "value": 120
+          "value": 130
         },
         {
           "query": "cos australia",
@@ -13397,6 +13600,10 @@
         },
         {
           "query": "cos store",
+          "value": 60
+        },
+        {
+          "query": "cos thailand",
           "value": 50
         }
       ]
@@ -13419,7 +13626,7 @@
         },
         {
           "date": "2025-07-20",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-07-27",
@@ -13475,7 +13682,7 @@
         },
         {
           "date": "2025-10-26",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-11-02",
@@ -13507,7 +13714,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2025-12-28",
@@ -13515,7 +13722,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-01-11",
@@ -13563,7 +13770,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2026-04-05",
@@ -13616,33 +13823,29 @@
         {
           "date": "2026-06-28",
           "value": 6
+        },
+        {
+          "date": "2026-07-05",
+          "value": 4
         }
       ],
       "summary": {
-        "latest": 6,
-        "avg": 6.3,
-        "change_pct": -8.0
+        "latest": 4,
+        "avg": 6.2,
+        "change_pct": -16.0
       },
       "rising_queries": [
         {
-          "query": "etsy reviews",
-          "value": 950
-        },
-        {
-          "query": "vinted vs depop",
-          "value": 800
-        },
-        {
-          "query": "best second hand clothing app",
-          "value": 800
-        },
-        {
-          "query": "best amazon deals",
-          "value": 600
-        },
-        {
           "query": "primark germany",
-          "value": 110
+          "value": 100
+        },
+        {
+          "query": "primark montpellier",
+          "value": 100
+        },
+        {
+          "query": "primark pjs",
+          "value": 60
         }
       ]
     },
@@ -13816,7 +14019,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 2
+          "value": 1
         },
         {
           "date": "2026-04-19",
@@ -13861,6 +14064,10 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
@@ -13870,24 +14077,16 @@
       },
       "rising_queries": [
         {
-          "query": "boohoo next day delivery cut off",
-          "value": 180
-        },
-        {
-          "query": "boohoo plus size",
-          "value": 120
-        },
-        {
-          "query": "boohoo size guide",
-          "value": 110
-        },
-        {
-          "query": "boohoo maxi dress",
-          "value": 110
-        },
-        {
           "query": "boohoo tall",
-          "value": 90
+          "value": 110
+        },
+        {
+          "query": "boohoo dress",
+          "value": 60
+        },
+        {
+          "query": "boohoo uk",
+          "value": 50
         }
       ]
     },
@@ -13929,7 +14128,7 @@
         },
         {
           "date": "2025-08-24",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-31",
@@ -14089,7 +14288,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2026-06-07",
@@ -14106,12 +14305,16 @@
         {
           "date": "2026-06-28",
           "value": 5
+        },
+        {
+          "date": "2026-07-05",
+          "value": 5
         }
       ],
       "summary": {
         "latest": 5,
-        "avg": 4.8,
-        "change_pct": -19.2
+        "avg": 4.9,
+        "change_pct": -16.7
       },
       "rising_queries": [
         {
@@ -14120,6 +14323,10 @@
         },
         {
           "query": "asos codes",
+          "value": 400
+        },
+        {
+          "query": "asos voucher code",
           "value": 350
         },
         {
@@ -14127,11 +14334,7 @@
           "value": 350
         },
         {
-          "query": "asos voucher code",
-          "value": 350
-        },
-        {
-          "query": "asos blazer",
+          "query": "asos design",
           "value": 250
         }
       ]
@@ -14351,6 +14554,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -14502,7 +14709,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-03-01",
@@ -14575,14 +14782,31 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
         "latest": 0,
-        "avg": 0.1,
+        "avg": 0.0,
         "change_pct": 0
       },
-      "rising_queries": []
+      "rising_queries": [
+        {
+          "query": "forever 21 logo",
+          "value": 200
+        },
+        {
+          "query": "forever 21 perfume",
+          "value": 130
+        },
+        {
+          "query": "forever 21 usa",
+          "value": 100
+        }
+      ]
     },
     {
       "name": "Calvin Klein",
@@ -14606,7 +14830,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-08-03",
@@ -14738,7 +14962,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-03-22",
@@ -14746,7 +14970,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2026-04-05",
@@ -14766,7 +14990,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 26
+          "value": 25
         },
         {
           "date": "2026-05-10",
@@ -14799,33 +15023,37 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
-        "latest": 4,
-        "avg": 7.4,
-        "change_pct": -64.4
+        "latest": 3,
+        "avg": 7.3,
+        "change_pct": -58.1
       },
       "rising_queries": [
         {
-          "query": "calvin klein jungkook collection",
-          "value": 2500
+          "query": "dakota johnson calvin klein",
+          "value": 11250
         },
         {
-          "query": "calvin klein wife",
-          "value": 600
+          "query": "jfk jr",
+          "value": 10800
         },
         {
-          "query": "calvin klein bag",
-          "value": 550
+          "query": "dakota johnson calvin klein ad",
+          "value": 8300
         },
         {
-          "query": "calvin klein shorts",
-          "value": 400
+          "query": "jackie kennedy",
+          "value": 7250
         },
         {
-          "query": "calvin klein shoes",
-          "value": 350
+          "query": "caroline kennedy",
+          "value": 6900
         }
       ]
     },
@@ -14883,7 +15111,7 @@
         },
         {
           "date": "2025-09-21",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2025-09-28",
@@ -14923,7 +15151,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-12-07",
@@ -15031,7 +15259,7 @@
         },
         {
           "date": "2026-06-07",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2026-06-14",
@@ -15044,6 +15272,10 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
@@ -15053,24 +15285,24 @@
       },
       "rising_queries": [
         {
-          "query": "tommy hilfiger cadillac",
-          "value": 3450
-        },
-        {
           "query": "tommy hilfiger indonesia",
-          "value": 200
-        },
-        {
-          "query": "tommy hilfiger dress",
-          "value": 110
-        },
-        {
-          "query": "tommy hilfiger shorts",
-          "value": 90
+          "value": 180
         },
         {
           "query": "tommy hilfiger sunglasses",
-          "value": 90
+          "value": 130
+        },
+        {
+          "query": "tommy hilfiger turkey",
+          "value": 120
+        },
+        {
+          "query": "tommy hilfiger backpack",
+          "value": 100
+        },
+        {
+          "query": "tommy hilfiger t-shirt",
+          "value": 100
         }
       ]
     },
@@ -15080,11 +15312,11 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-07-06",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-07-13",
@@ -15100,7 +15332,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-08-10",
@@ -15108,7 +15340,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-08-24",
@@ -15164,7 +15396,7 @@
         },
         {
           "date": "2025-11-23",
-          "value": 15
+          "value": 14
         },
         {
           "date": "2025-11-30",
@@ -15176,7 +15408,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-12-21",
@@ -15184,7 +15416,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 10
+          "value": 9
         },
         {
           "date": "2026-01-04",
@@ -15204,11 +15436,11 @@
         },
         {
           "date": "2026-02-01",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-02-08",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2026-02-15",
@@ -15260,7 +15492,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 13
+          "value": 12
         },
         {
           "date": "2026-05-17",
@@ -15289,12 +15521,16 @@
         {
           "date": "2026-06-28",
           "value": 6
+        },
+        {
+          "date": "2026-07-05",
+          "value": 5
         }
       ],
       "summary": {
-        "latest": 6,
-        "avg": 8.7,
-        "change_pct": -30.8
+        "latest": 5,
+        "avg": 8.4,
+        "change_pct": -29.4
       },
       "rising_queries": [
         {
@@ -15311,11 +15547,11 @@
         },
         {
           "query": "ralph lauren christmas",
-          "value": 200
+          "value": 250
         },
         {
-          "query": "essentials",
-          "value": 170
+          "query": "ralph lauren new york",
+          "value": 160
         }
       ]
     },
@@ -15389,7 +15625,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-10-26",
@@ -15413,7 +15649,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-12-07",
@@ -15453,7 +15689,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-02-15",
@@ -15501,7 +15737,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-05-10",
@@ -15533,34 +15769,38 @@
         },
         {
           "date": "2026-06-28",
-          "value": 5
+          "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 3
         }
       ],
       "summary": {
-        "latest": 5,
+        "latest": 3,
         "avg": 5.0,
-        "change_pct": 0.0
+        "change_pct": -15.0
       },
       "rising_queries": [
         {
-          "query": "lacoste goat",
-          "value": 1500
+          "query": "lacoste godzilla",
+          "value": 3750
         },
         {
           "query": "dj oreia 074 ritmadinha trajado de lacoste",
-          "value": 200
+          "value": 250
         },
         {
-          "query": "lacoste us",
+          "query": "lacoste uk",
           "value": 100
         },
         {
-          "query": "lacoste watch",
+          "query": "lacoste us",
           "value": 90
         },
         {
-          "query": "lacoste brasil",
-          "value": 70
+          "query": "lacoste watch",
+          "value": 80
         }
       ]
     },
@@ -15662,15 +15902,15 @@
         },
         {
           "date": "2025-12-07",
-          "value": 3
+          "value": 4
         },
         {
           "date": "2025-12-14",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-12-21",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-12-28",
@@ -15779,21 +16019,21 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
-        "avg": 2.5,
-        "change_pct": -38.5
+        "latest": 1,
+        "avg": 2.4,
+        "change_pct": -36.4
       },
       "rising_queries": [
         {
           "query": "hugo boss bottled beyond",
-          "value": 15250
-        },
-        {
-          "query": "hugo boss boss bottled beyond eau de parfum",
-          "value": 12200
+          "value": 13650
         },
         {
           "query": "hugo boss sunglasses",
@@ -15801,11 +16041,15 @@
         },
         {
           "query": "hugo boss eau de toilette",
-          "value": 250
+          "value": 180
         },
         {
           "query": "hugo boss sneakers",
-          "value": 150
+          "value": 140
+        },
+        {
+          "query": "hugo boss absolu",
+          "value": 110
         }
       ]
     },
@@ -15875,7 +16119,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-10-19",
@@ -15887,7 +16131,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-11-09",
@@ -15895,7 +16139,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-11-23",
@@ -15919,7 +16163,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-01-04",
@@ -15939,7 +16183,7 @@
         },
         {
           "date": "2026-02-01",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-02-08",
@@ -15951,7 +16195,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-03-01",
@@ -15959,7 +16203,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2026-03-15",
@@ -15967,11 +16211,11 @@
         },
         {
           "date": "2026-03-22",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-03-29",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2026-04-05",
@@ -15995,7 +16239,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2026-05-17",
@@ -16024,33 +16268,37 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 4
         }
       ],
       "summary": {
         "latest": 4,
-        "avg": 6.1,
-        "change_pct": -13.6
+        "avg": 6.0,
+        "change_pct": -14.3
       },
       "rising_queries": [
         {
-          "query": "armani power of you",
-          "value": 37450
-        },
-        {
-          "query": "giorgio armani death",
-          "value": 2900
-        },
-        {
-          "query": "armani beauty luminous silk foundation",
-          "value": 450
-        },
-        {
           "query": "armani luminous silk foundation",
-          "value": 170
+          "value": 160
         },
         {
-          "query": "armani silos",
-          "value": 140
+          "query": "armani luminous silk",
+          "value": 130
+        },
+        {
+          "query": "armani foundation",
+          "value": 90
+        },
+        {
+          "query": "armani beauty",
+          "value": 70
+        },
+        {
+          "query": "giorgio armani parfum",
+          "value": 40
         }
       ]
     },
@@ -16060,7 +16308,7 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 20
+          "value": 22
         },
         {
           "date": "2025-07-06",
@@ -16068,11 +16316,11 @@
         },
         {
           "date": "2025-07-13",
-          "value": 23
+          "value": 22
         },
         {
           "date": "2025-07-20",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2025-07-27",
@@ -16092,15 +16340,15 @@
         },
         {
           "date": "2025-08-24",
-          "value": 26
-        },
-        {
-          "date": "2025-08-31",
           "value": 25
         },
         {
+          "date": "2025-08-31",
+          "value": 24
+        },
+        {
           "date": "2025-09-07",
-          "value": 26
+          "value": 25
         },
         {
           "date": "2025-09-14",
@@ -16112,15 +16360,15 @@
         },
         {
           "date": "2025-09-28",
-          "value": 24
+          "value": 25
         },
         {
           "date": "2025-10-05",
-          "value": 23
+          "value": 24
         },
         {
           "date": "2025-10-12",
-          "value": 24
+          "value": 25
         },
         {
           "date": "2025-10-19",
@@ -16132,11 +16380,11 @@
         },
         {
           "date": "2025-11-02",
-          "value": 23
+          "value": 24
         },
         {
           "date": "2025-11-09",
-          "value": 25
+          "value": 24
         },
         {
           "date": "2025-11-16",
@@ -16164,7 +16412,7 @@
         },
         {
           "date": "2025-12-28",
-          "value": 24
+          "value": 25
         },
         {
           "date": "2026-01-04",
@@ -16176,7 +16424,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 27
+          "value": 26
         },
         {
           "date": "2026-01-25",
@@ -16192,7 +16440,7 @@
         },
         {
           "date": "2026-02-15",
-          "value": 28
+          "value": 27
         },
         {
           "date": "2026-02-22",
@@ -16208,7 +16456,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 39
+          "value": 37
         },
         {
           "date": "2026-03-22",
@@ -16216,11 +16464,11 @@
         },
         {
           "date": "2026-03-29",
-          "value": 42
+          "value": 40
         },
         {
           "date": "2026-04-05",
-          "value": 41
+          "value": 40
         },
         {
           "date": "2026-04-12",
@@ -16232,15 +16480,15 @@
         },
         {
           "date": "2026-04-26",
-          "value": 32
-        },
-        {
-          "date": "2026-05-03",
           "value": 30
         },
         {
+          "date": "2026-05-03",
+          "value": 29
+        },
+        {
           "date": "2026-05-10",
-          "value": 32
+          "value": 33
         },
         {
           "date": "2026-05-17",
@@ -16248,7 +16496,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 31
+          "value": 30
         },
         {
           "date": "2026-05-31",
@@ -16256,7 +16504,7 @@
         },
         {
           "date": "2026-06-07",
-          "value": 28
+          "value": 29
         },
         {
           "date": "2026-06-14",
@@ -16268,34 +16516,38 @@
         },
         {
           "date": "2026-06-28",
-          "value": 24
+          "value": 25
+        },
+        {
+          "date": "2026-07-05",
+          "value": 21
         }
       ],
       "summary": {
-        "latest": 24,
-        "avg": 27.5,
-        "change_pct": -16.9
+        "latest": 21,
+        "avg": 27.3,
+        "change_pct": -19.2
       },
       "rising_queries": [
         {
           "query": "lidl near me",
-          "value": 7500
+          "value": 7650
         },
         {
           "query": "docs diesel",
-          "value": 2950
-        },
-        {
-          "query": "murphys diesel",
-          "value": 350
+          "value": 2750
         },
         {
           "query": "diesel price today",
-          "value": 300
+          "value": 350
         },
         {
           "query": "diesel watch",
-          "value": 180
+          "value": 150
+        },
+        {
+          "query": "diesel price",
+          "value": 130
         }
       ]
     },
@@ -16357,7 +16609,7 @@
         },
         {
           "date": "2025-09-28",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2025-10-05",
@@ -16461,7 +16713,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 17
+          "value": 16
         },
         {
           "date": "2026-04-05",
@@ -16481,7 +16733,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2026-05-10",
@@ -16493,7 +16745,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-05-31",
@@ -16514,33 +16766,37 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
-        "avg": 4.8,
-        "change_pct": -73.3
+        "latest": 1,
+        "avg": 4.7,
+        "change_pct": -67.9
       },
       "rising_queries": [
         {
           "query": "levi's men's 501 original fit jeans",
-          "value": 5200
+          "value": 4950
         },
         {
           "query": "levi's women's 501 original shorts",
-          "value": 3050
+          "value": 3250
         },
         {
           "query": "levi's women's 501 jeans",
-          "value": 2850
+          "value": 2700
         },
         {
           "query": "levi's men's 511 slim jeans",
-          "value": 1800
+          "value": 1900
         },
         {
           "query": "levi's 501 shrink-to-fit",
-          "value": 1750
+          "value": 1700
         }
       ]
     },
@@ -16558,7 +16814,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-07-20",
@@ -16578,7 +16834,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-08-24",
@@ -16658,7 +16914,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-01-11",
@@ -16686,11 +16942,11 @@
         },
         {
           "date": "2026-02-22",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-03-01",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-03-08",
@@ -16702,7 +16958,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-03-29",
@@ -16718,7 +16974,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-04-26",
@@ -16734,7 +16990,7 @@
         },
         {
           "date": "2026-05-17",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-05-24",
@@ -16742,7 +16998,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-06-07",
@@ -16759,17 +17015,21 @@
         {
           "date": "2026-06-28",
           "value": 7
+        },
+        {
+          "date": "2026-07-05",
+          "value": 7
         }
       ],
       "summary": {
         "latest": 7,
         "avg": 8.2,
-        "change_pct": -14.3
+        "change_pct": -14.7
       },
       "rising_queries": [
         {
           "query": "i guess bro meme",
-          "value": 11650
+          "value": 12600
         },
         {
           "query": "honey guess who's the real boss",
@@ -16780,12 +17040,12 @@
           "value": 4300
         },
         {
-          "query": "guess indonesia",
-          "value": 160
-        },
-        {
           "query": "guess kitten heels",
           "value": 140
+        },
+        {
+          "query": "guess uk",
+          "value": 130
         }
       ]
     },
@@ -17004,6 +17264,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -17139,7 +17403,7 @@
         },
         {
           "date": "2026-01-25",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-02-01",
@@ -17228,32 +17492,28 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
-        "latest": 1,
+        "latest": 0,
         "avg": 1.0,
-        "change_pct": 0.0
+        "change_pct": -25.0
       },
       "rising_queries": [
         {
           "query": "ted baker watch",
-          "value": 110
-        },
-        {
-          "query": "baker by ted baker",
           "value": 90
         },
         {
-          "query": "ted baker purses",
-          "value": 70
+          "query": "ted baker near me",
+          "value": 60
         },
         {
           "query": "ted baker suit",
-          "value": 70
-        },
-        {
-          "query": "ted baker backpack",
           "value": 50
         }
       ]
@@ -17284,7 +17544,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2025-08-10",
@@ -17320,7 +17580,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-10-12",
@@ -17344,7 +17604,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-11-23",
@@ -17356,7 +17616,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-12-14",
@@ -17372,7 +17632,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-01-11",
@@ -17452,7 +17712,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-05-31",
@@ -17473,14 +17733,39 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
         "latest": 0,
         "avg": 0.4,
-        "change_pct": -75.0
+        "change_pct": -100.0
       },
-      "rising_queries": []
+      "rising_queries": [
+        {
+          "query": "barbour x paul smith",
+          "value": 2600
+        },
+        {
+          "query": "paul smith tour 2026",
+          "value": 2000
+        },
+        {
+          "query": "barbour",
+          "value": 750
+        },
+        {
+          "query": "paul smith suit",
+          "value": 500
+        },
+        {
+          "query": "paul smith mini",
+          "value": 450
+        }
+      ]
     },
     {
       "name": "Kenzo",
@@ -17697,6 +17982,10 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
@@ -17707,7 +17996,7 @@
       "rising_queries": [
         {
           "query": "kenzo la casa de los famosos",
-          "value": 24150
+          "value": 8250
         },
         {
           "query": "kenzo homme edp",
@@ -17715,7 +18004,7 @@
         },
         {
           "query": "kenzo edp",
-          "value": 40
+          "value": 50
         }
       ]
     },
@@ -17797,7 +18086,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-11-09",
@@ -17805,7 +18094,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 7
+          "value": 6
         },
         {
           "date": "2025-11-23",
@@ -17821,7 +18110,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-12-21",
@@ -17833,7 +18122,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2026-01-11",
@@ -17934,32 +18223,36 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
-        "avg": 4.2,
-        "change_pct": -33.3
+        "latest": 1,
+        "avg": 4.1,
+        "change_pct": -38.5
       },
       "rising_queries": [
         {
           "query": "carhartt men's midweight hooded sweatshirt",
-          "value": 1950
-        },
-        {
-          "query": "carhartt men's storm defender relaxed fit lightweight packable jacket",
           "value": 1900
         },
         {
           "query": "carhartt men's rain defender paxton heavyweight hooded sweatshirt",
-          "value": 1600
+          "value": 1700
         },
         {
-          "query": "carhartt wallet",
-          "value": 250
+          "query": "carhartt men's storm defender relaxed fit lightweight packable jacket",
+          "value": 1500
         },
         {
           "query": "women's carhartt jacket",
+          "value": 250
+        },
+        {
+          "query": "carhartt wallet",
           "value": 250
         }
       ]
@@ -18098,7 +18391,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-02-15",
@@ -18179,17 +18472,21 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.5,
-        "change_pct": -33.3
+        "change_pct": -37.5
       },
       "rising_queries": [
         {
           "query": "murakami marc jacobs",
-          "value": 4900
+          "value": 5200
         },
         {
           "query": "marc jacobs daisy wild eau de parfum",
@@ -18215,7 +18512,7 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-06",
@@ -18263,23 +18560,23 @@
         },
         {
           "date": "2025-09-21",
-          "value": 17
+          "value": 18
         },
         {
           "date": "2025-09-28",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-10-05",
-          "value": 18
+          "value": 17
         },
         {
           "date": "2025-10-12",
-          "value": 16
+          "value": 18
         },
         {
           "date": "2025-10-19",
-          "value": 16
+          "value": 15
         },
         {
           "date": "2025-10-26",
@@ -18295,7 +18592,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-11-23",
@@ -18303,7 +18600,7 @@
         },
         {
           "date": "2025-11-30",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2025-12-07",
@@ -18311,15 +18608,15 @@
         },
         {
           "date": "2025-12-14",
-          "value": 20
+          "value": 21
         },
         {
           "date": "2025-12-21",
-          "value": 28
+          "value": 29
         },
         {
           "date": "2025-12-28",
-          "value": 28
+          "value": 29
         },
         {
           "date": "2026-01-04",
@@ -18331,7 +18628,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 27
+          "value": 26
         },
         {
           "date": "2026-01-25",
@@ -18343,7 +18640,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2026-02-15",
@@ -18355,7 +18652,7 @@
         },
         {
           "date": "2026-03-01",
-          "value": 30
+          "value": 28
         },
         {
           "date": "2026-03-08",
@@ -18363,7 +18660,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 23
+          "value": 22
         },
         {
           "date": "2026-03-22",
@@ -18371,7 +18668,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2026-04-05",
@@ -18379,15 +18676,15 @@
         },
         {
           "date": "2026-04-12",
-          "value": 20
-        },
-        {
-          "date": "2026-04-19",
           "value": 21
         },
         {
+          "date": "2026-04-19",
+          "value": 20
+        },
+        {
           "date": "2026-04-26",
-          "value": 23
+          "value": 24
         },
         {
           "date": "2026-05-03",
@@ -18395,7 +18692,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 25
+          "value": 24
         },
         {
           "date": "2026-05-17",
@@ -18407,7 +18704,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-06-07",
@@ -18415,7 +18712,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 18
+          "value": 20
         },
         {
           "date": "2026-06-21",
@@ -18423,34 +18720,38 @@
         },
         {
           "date": "2026-06-28",
-          "value": 16
+          "value": 17
+        },
+        {
+          "date": "2026-07-05",
+          "value": 13
         }
       ],
       "summary": {
-        "latest": 16,
-        "avg": 19.9,
-        "change_pct": -23.0
+        "latest": 13,
+        "avg": 19.7,
+        "change_pct": -19.8
       },
       "rising_queries": [
         {
           "query": "marty supreme streaming",
-          "value": 14200
+          "value": 14650
+        },
+        {
+          "query": "hamnet",
+          "value": 10700
+        },
+        {
+          "query": "marty supreme reviews",
+          "value": 10150
+        },
+        {
+          "query": "supreme court tariff ruling",
+          "value": 4850
         },
         {
           "query": "marty supreme",
           "value": 3950
-        },
-        {
-          "query": "marty reisman",
-          "value": 1700
-        },
-        {
-          "query": "supreme experiment",
-          "value": 650
-        },
-        {
-          "query": "supreme court news",
-          "value": 500
         }
       ]
     },
@@ -18668,6 +18969,10 @@
         },
         {
           "date": "2026-06-28",
+          "value": 0
+        },
+        {
+          "date": "2026-07-05",
           "value": 0
         }
       ],
@@ -18893,6 +19198,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -18902,20 +19211,24 @@
       },
       "rising_queries": [
         {
-          "query": "a bathing ape jacket",
-          "value": 150
+          "query": "a bathing ape shark hoodie",
+          "value": 900
+        },
+        {
+          "query": "a bathing ape shorts",
+          "value": 200
+        },
+        {
+          "query": "a bathing ape tee",
+          "value": 190
         },
         {
           "query": "a bathing ape bape sta",
-          "value": 140
+          "value": 160
         },
         {
-          "query": "a bathing ape hoodie",
-          "value": 120
-        },
-        {
-          "query": "a bathing ape logo",
-          "value": 80
+          "query": "a bathing ape jacket",
+          "value": 150
         }
       ]
     },
@@ -18925,15 +19238,15 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 17
+          "value": 15
         },
         {
           "date": "2025-07-06",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-07-13",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2025-07-20",
@@ -18941,7 +19254,7 @@
         },
         {
           "date": "2025-07-27",
-          "value": 21
+          "value": 20
         },
         {
           "date": "2025-08-03",
@@ -18953,7 +19266,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 37
+          "value": 36
         },
         {
           "date": "2025-08-24",
@@ -18961,7 +19274,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 23
+          "value": 21
         },
         {
           "date": "2025-09-07",
@@ -18973,7 +19286,7 @@
         },
         {
           "date": "2025-09-21",
-          "value": 28
+          "value": 27
         },
         {
           "date": "2025-09-28",
@@ -18981,7 +19294,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 21
+          "value": 20
         },
         {
           "date": "2025-10-12",
@@ -18989,7 +19302,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 20
+          "value": 21
         },
         {
           "date": "2025-10-26",
@@ -18997,7 +19310,7 @@
         },
         {
           "date": "2025-11-02",
-          "value": 20
+          "value": 21
         },
         {
           "date": "2025-11-09",
@@ -19017,7 +19330,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 26
+          "value": 25
         },
         {
           "date": "2025-12-14",
@@ -19033,11 +19346,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 26
+          "value": 25
         },
         {
           "date": "2026-01-11",
-          "value": 21
+          "value": 22
         },
         {
           "date": "2026-01-18",
@@ -19061,7 +19374,7 @@
         },
         {
           "date": "2026-02-22",
-          "value": 23
+          "value": 25
         },
         {
           "date": "2026-03-01",
@@ -19069,7 +19382,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 20
+          "value": 22
         },
         {
           "date": "2026-03-15",
@@ -19077,23 +19390,23 @@
         },
         {
           "date": "2026-03-22",
-          "value": 19
+          "value": 18
         },
         {
           "date": "2026-03-29",
-          "value": 20
+          "value": 19
         },
         {
           "date": "2026-04-05",
-          "value": 24
+          "value": 23
         },
         {
           "date": "2026-04-12",
-          "value": 28
+          "value": 29
         },
         {
           "date": "2026-04-19",
-          "value": 30
+          "value": 31
         },
         {
           "date": "2026-04-26",
@@ -19105,7 +19418,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 39
+          "value": 37
         },
         {
           "date": "2026-05-17",
@@ -19117,15 +19430,15 @@
         },
         {
           "date": "2026-05-31",
-          "value": 21
-        },
-        {
-          "date": "2026-06-07",
           "value": 20
         },
         {
-          "date": "2026-06-14",
+          "date": "2026-06-07",
           "value": 21
+        },
+        {
+          "date": "2026-06-14",
+          "value": 22
         },
         {
           "date": "2026-06-21",
@@ -19133,18 +19446,34 @@
         },
         {
           "date": "2026-06-28",
-          "value": 16
+          "value": 17
+        },
+        {
+          "date": "2026-07-05",
+          "value": 17
         }
       ],
       "summary": {
-        "latest": 16,
-        "avg": 25.0,
-        "change_pct": -43.1
+        "latest": 17,
+        "avg": 24.8,
+        "change_pct": -34.2
       },
       "rising_queries": [
         {
-          "query": "crystal palace f.c. vs arsenal f.c. standings",
-          "value": 800
+          "query": "shakhtar donetsk vs palace",
+          "value": 5150
+        },
+        {
+          "query": "europa league",
+          "value": 400
+        },
+        {
+          "query": "china palace",
+          "value": 80
+        },
+        {
+          "query": "liverpool crystal palace",
+          "value": 70
         }
       ]
     },
@@ -19174,7 +19503,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2025-08-10",
@@ -19182,7 +19511,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2025-08-24",
@@ -19358,21 +19687,25 @@
         },
         {
           "date": "2026-06-21",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2026-06-28",
+          "value": 0
+        },
+        {
+          "date": "2026-07-05",
           "value": 0
         }
       ],
       "summary": {
         "latest": 0,
         "avg": 0.9,
-        "change_pct": -25.0
+        "change_pct": -75.0
       },
       "rising_queries": [
         {
-          "query": "fear of god essentials shorts",
+          "query": "essentials fear of god shorts",
           "value": 120
         },
         {
@@ -19380,12 +19713,12 @@
           "value": 110
         },
         {
-          "query": "fear of god brand",
-          "value": 70
+          "query": "fear of god fraternity",
+          "value": 80
         },
         {
-          "query": "fear of god fraternity",
-          "value": 70
+          "query": "fear of god hat",
+          "value": 60
         },
         {
           "query": "fear of god shorts",
@@ -19411,7 +19744,7 @@
         },
         {
           "date": "2025-07-20",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2025-07-27",
@@ -19463,7 +19796,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 4
+          "value": 5
         },
         {
           "date": "2025-10-26",
@@ -19479,7 +19812,7 @@
         },
         {
           "date": "2025-11-16",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-11-23",
@@ -19519,7 +19852,7 @@
         },
         {
           "date": "2026-01-25",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-02-01",
@@ -19547,19 +19880,19 @@
         },
         {
           "date": "2026-03-15",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-03-22",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-03-29",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-04-05",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-04-12",
@@ -19608,25 +19941,25 @@
         {
           "date": "2026-06-28",
           "value": 4
+        },
+        {
+          "date": "2026-07-05",
+          "value": 4
         }
       ],
       "summary": {
         "latest": 4,
         "avg": 5.7,
-        "change_pct": -34.5
+        "change_pct": -37.0
       },
       "rising_queries": [
         {
-          "query": "converse all star chuck taylor",
-          "value": 350
-        },
-        {
           "query": "converse chuck taylor",
-          "value": 200
+          "value": 190
         },
         {
           "query": "long converse",
-          "value": 170
+          "value": 160
         },
         {
           "query": "leather converse",
@@ -19634,7 +19967,11 @@
         },
         {
           "query": "converse sneakers",
-          "value": 120
+          "value": 110
+        },
+        {
+          "query": "blue converse",
+          "value": 90
         }
       ]
     },
@@ -19652,7 +19989,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-07-20",
@@ -19704,7 +20041,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2025-10-19",
@@ -19720,7 +20057,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-11-16",
@@ -19744,7 +20081,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2025-12-28",
@@ -19820,7 +20157,7 @@
         },
         {
           "date": "2026-05-03",
-          "value": 10
+          "value": 9
         },
         {
           "date": "2026-05-10",
@@ -19844,7 +20181,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-06-21",
@@ -19853,33 +20190,37 @@
         {
           "date": "2026-06-28",
           "value": 8
+        },
+        {
+          "date": "2026-07-05",
+          "value": 7
         }
       ],
       "summary": {
-        "latest": 8,
+        "latest": 7,
         "avg": 8.7,
-        "change_pct": -5.6
+        "change_pct": -13.9
       },
       "rising_queries": [
         {
           "query": "vans kpop demon hunters",
-          "value": 15650
+          "value": 17250
         },
         {
           "query": "best small camper vans",
-          "value": 13550
+          "value": 13500
         },
         {
-          "query": "pearlized vans",
-          "value": 2450
+          "query": "vans warped tour 2026",
+          "value": 4500
+        },
+        {
+          "query": "vans pearlized",
+          "value": 2400
         },
         {
           "query": "vans ultrarange 2.0",
           "value": 1150
-        },
-        {
-          "query": "vans crosspath xc",
-          "value": 850
         }
       ]
     },
@@ -20053,7 +20394,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-04-19",
@@ -20098,6 +20439,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -20108,18 +20453,22 @@
       "rising_queries": [
         {
           "query": "dr. martens pvj",
-          "value": 13300
+          "value": 6900
         },
         {
           "query": "dr. martens sandals",
-          "value": 110
+          "value": 90
+        },
+        {
+          "query": "dr. martens canada",
+          "value": 90
         },
         {
           "query": "boots",
           "value": 60
         },
         {
-          "query": "dr. martens boots",
+          "query": "dr. martens shoes",
           "value": 60
         }
       ]
@@ -20130,19 +20479,19 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-07-06",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2025-07-13",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-20",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2025-07-27",
@@ -20150,7 +20499,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 12
+          "value": 11
         },
         {
           "date": "2025-08-10",
@@ -20162,7 +20511,7 @@
         },
         {
           "date": "2025-08-24",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2025-08-31",
@@ -20186,7 +20535,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2025-10-12",
@@ -20222,7 +20571,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 10
+          "value": 9
         },
         {
           "date": "2025-12-14",
@@ -20238,11 +20587,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2026-01-11",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2026-01-18",
@@ -20266,11 +20615,11 @@
         },
         {
           "date": "2026-02-22",
-          "value": 7
+          "value": 8
         },
         {
           "date": "2026-03-01",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2026-03-08",
@@ -20286,7 +20635,7 @@
         },
         {
           "date": "2026-03-29",
-          "value": 11
+          "value": 10
         },
         {
           "date": "2026-04-05",
@@ -20298,7 +20647,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 10
+          "value": 11
         },
         {
           "date": "2026-04-26",
@@ -20318,11 +20667,11 @@
         },
         {
           "date": "2026-05-24",
-          "value": 12
+          "value": 13
         },
         {
           "date": "2026-05-31",
-          "value": 11
+          "value": 12
         },
         {
           "date": "2026-06-07",
@@ -20339,12 +20688,16 @@
         {
           "date": "2026-06-28",
           "value": 11
+        },
+        {
+          "date": "2026-07-05",
+          "value": 10
         }
       ],
       "summary": {
-        "latest": 11,
+        "latest": 10,
         "avg": 9.2,
-        "change_pct": 2.3
+        "change_pct": -6.4
       },
       "rising_queries": [
         {
@@ -20353,7 +20706,7 @@
         },
         {
           "query": "animal crossing crocs",
-          "value": 2200
+          "value": 2250
         },
         {
           "query": "twilight crocs",
@@ -20361,7 +20714,7 @@
         },
         {
           "query": "stranger things crocs",
-          "value": 1450
+          "value": 1400
         },
         {
           "query": "crocs miami flip flops",
@@ -20383,7 +20736,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 9
+          "value": 8
         },
         {
           "date": "2025-07-20",
@@ -20411,7 +20764,7 @@
         },
         {
           "date": "2025-08-31",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-09-07",
@@ -20467,11 +20820,11 @@
         },
         {
           "date": "2025-12-07",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-12-14",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-12-21",
@@ -20563,11 +20916,11 @@
         },
         {
           "date": "2026-05-24",
-          "value": 9
+          "value": 10
         },
         {
           "date": "2026-05-31",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-06-07",
@@ -20584,20 +20937,28 @@
         {
           "date": "2026-06-28",
           "value": 8
+        },
+        {
+          "date": "2026-07-05",
+          "value": 6
         }
       ],
       "summary": {
-        "latest": 8,
+        "latest": 6,
         "avg": 5.7,
-        "change_pct": 3.1
+        "change_pct": -11.4
       },
       "rising_queries": [
         {
-          "query": "birkenstock new zealand",
-          "value": 450
+          "query": "birkenstock arizona two-strap sandals",
+          "value": 6150
         },
         {
-          "query": "birkenstock naples",
+          "query": "birkenstock naples wrapped",
+          "value": 650
+        },
+        {
+          "query": "naples birkenstock",
           "value": 350
         },
         {
@@ -20605,12 +20966,8 @@
           "value": 250
         },
         {
-          "query": "birkenstock eva sandals",
+          "query": "birkenstock brasil",
           "value": 200
-        },
-        {
-          "query": "birkenstock arizona soft footbed",
-          "value": 180
         }
       ]
     },
@@ -20624,7 +20981,7 @@
         },
         {
           "date": "2025-07-06",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2025-07-13",
@@ -20660,11 +21017,11 @@
         },
         {
           "date": "2025-09-07",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-09-14",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-09-21",
@@ -20696,11 +21053,11 @@
         },
         {
           "date": "2025-11-09",
-          "value": 14
+          "value": 13
         },
         {
           "date": "2025-11-16",
-          "value": 15
+          "value": 16
         },
         {
           "date": "2025-11-23",
@@ -20740,7 +21097,7 @@
         },
         {
           "date": "2026-01-25",
-          "value": 6
+          "value": 7
         },
         {
           "date": "2026-02-01",
@@ -20820,7 +21177,7 @@
         },
         {
           "date": "2026-06-14",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-06-21",
@@ -20829,33 +21186,37 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
-        "avg": 6.3,
+        "avg": 6.2,
         "change_pct": -25.0
       },
       "rising_queries": [
         {
+          "query": "ugg tazzelle",
+          "value": 10300
+        },
+        {
           "query": "ugg tazz ii",
-          "value": 3850
+          "value": 3650
+        },
+        {
+          "query": "ugg women's tasman ii",
+          "value": 3650
         },
         {
           "query": "ugg ballet flats",
-          "value": 1800
+          "value": 1850
         },
         {
-          "query": "locke ugg",
-          "value": 600
-        },
-        {
-          "query": "ugg brasil",
-          "value": 400
-        },
-        {
-          "query": "ugg women's classic ultra mini",
-          "value": 200
+          "query": "ugg tasman ii",
+          "value": 1050
         }
       ]
     },
@@ -20885,7 +21246,7 @@
         },
         {
           "date": "2025-08-03",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2025-08-10",
@@ -20893,7 +21254,7 @@
         },
         {
           "date": "2025-08-17",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2025-08-24",
@@ -21053,7 +21414,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-05-31",
@@ -21074,6 +21435,10 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
@@ -21084,15 +21449,15 @@
       "rising_queries": [
         {
           "query": "telfar timberland",
-          "value": 3200
+          "value": 2750
         },
         {
           "query": "telfar timberland boots",
-          "value": 2600
+          "value": 2250
         },
         {
           "query": "men's timberland premium 6-inch waterproof boots",
-          "value": 600
+          "value": 550
         },
         {
           "query": "timberland online",
@@ -21100,7 +21465,7 @@
         },
         {
           "query": "timberland boots price",
-          "value": 150
+          "value": 170
         }
       ]
     },
@@ -21298,7 +21663,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-05-31",
@@ -21319,33 +21684,37 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
+        "latest": 1,
         "avg": 2.2,
-        "change_pct": -27.3
+        "change_pct": -36.4
       },
       "rising_queries": [
-        {
-          "query": "clarks cloudsteppers sandals",
-          "value": 100
-        },
         {
           "query": "clarks ballet flats",
           "value": 90
         },
         {
           "query": "clarks auto",
-          "value": 80
-        },
-        {
-          "query": "clarks sneakers",
-          "value": 80
+          "value": 90
         },
         {
           "query": "the clarks",
+          "value": 90
+        },
+        {
+          "query": "clarks sneakers",
           "value": 70
+        },
+        {
+          "query": "clarks cloudsteppers",
+          "value": 60
         }
       ]
     },
@@ -21439,7 +21808,7 @@
         },
         {
           "date": "2025-11-23",
-          "value": 1
+          "value": 0
         },
         {
           "date": "2025-11-30",
@@ -21564,33 +21933,37 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
         "latest": 0,
         "avg": 0.2,
-        "change_pct": -100.0
+        "change_pct": 0
       },
       "rising_queries": [
         {
           "query": "allbirds ai pivot",
-          "value": 55350
-        },
-        {
-          "query": "allbirds shoes ai stock",
-          "value": 15600
+          "value": 55300
         },
         {
           "query": "newbird ai",
-          "value": 6800
-        },
-        {
-          "query": "allbirds shoes ai",
-          "value": 3300
+          "value": 34750
         },
         {
           "query": "allbirds ai",
-          "value": 2300
+          "value": 2200
+        },
+        {
+          "query": "allbirds news",
+          "value": 1050
+        },
+        {
+          "query": "men's allbirds",
+          "value": 450
         }
       ]
     },
@@ -21608,7 +21981,7 @@
         },
         {
           "date": "2025-07-13",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-07-20",
@@ -21660,7 +22033,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 5
+          "value": 6
         },
         {
           "date": "2025-10-19",
@@ -21696,7 +22069,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2025-12-21",
@@ -21716,7 +22089,7 @@
         },
         {
           "date": "2026-01-18",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2026-01-25",
@@ -21732,11 +22105,11 @@
         },
         {
           "date": "2026-02-15",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-02-22",
-          "value": 6
+          "value": 5
         },
         {
           "date": "2026-03-01",
@@ -21780,7 +22153,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 8
+          "value": 9
         },
         {
           "date": "2026-05-17",
@@ -21792,7 +22165,7 @@
         },
         {
           "date": "2026-05-31",
-          "value": 8
+          "value": 7
         },
         {
           "date": "2026-06-07",
@@ -21809,21 +22182,25 @@
         {
           "date": "2026-06-28",
           "value": 5
+        },
+        {
+          "date": "2026-07-05",
+          "value": 5
         }
       ],
       "summary": {
         "latest": 5,
-        "avg": 6.2,
-        "change_pct": -21.9
+        "avg": 6.1,
+        "change_pct": -23.3
       },
       "rising_queries": [
         {
           "query": "skechers garage shoes",
-          "value": 5250
+          "value": 5050
         },
         {
           "query": "skechers garage",
-          "value": 2400
+          "value": 2350
         },
         {
           "query": "skechers aero burst",
@@ -21845,7 +22222,7 @@
       "series": [
         {
           "date": "2025-06-29",
-          "value": 23
+          "value": 24
         },
         {
           "date": "2025-07-06",
@@ -21853,27 +22230,27 @@
         },
         {
           "date": "2025-07-13",
-          "value": 25
+          "value": 24
         },
         {
           "date": "2025-07-20",
-          "value": 26
+          "value": 24
         },
         {
           "date": "2025-07-27",
-          "value": 25
+          "value": 26
         },
         {
           "date": "2025-08-03",
-          "value": 28
+          "value": 27
         },
         {
           "date": "2025-08-10",
-          "value": 30
+          "value": 28
         },
         {
           "date": "2025-08-17",
-          "value": 28
+          "value": 29
         },
         {
           "date": "2025-08-24",
@@ -21893,11 +22270,11 @@
         },
         {
           "date": "2025-09-21",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2025-09-28",
-          "value": 30
+          "value": 29
         },
         {
           "date": "2025-10-05",
@@ -21909,7 +22286,7 @@
         },
         {
           "date": "2025-10-19",
-          "value": 29
+          "value": 30
         },
         {
           "date": "2025-10-26",
@@ -21921,7 +22298,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 33
+          "value": 32
         },
         {
           "date": "2025-11-16",
@@ -21937,11 +22314,11 @@
         },
         {
           "date": "2025-12-07",
-          "value": 44
+          "value": 43
         },
         {
           "date": "2025-12-14",
-          "value": 39
+          "value": 40
         },
         {
           "date": "2025-12-21",
@@ -21953,11 +22330,11 @@
         },
         {
           "date": "2026-01-04",
-          "value": 39
+          "value": 40
         },
         {
           "date": "2026-01-11",
-          "value": 40
+          "value": 41
         },
         {
           "date": "2026-01-18",
@@ -21965,7 +22342,7 @@
         },
         {
           "date": "2026-01-25",
-          "value": 38
+          "value": 39
         },
         {
           "date": "2026-02-01",
@@ -21973,7 +22350,7 @@
         },
         {
           "date": "2026-02-08",
-          "value": 36
+          "value": 37
         },
         {
           "date": "2026-02-15",
@@ -21989,7 +22366,7 @@
         },
         {
           "date": "2026-03-08",
-          "value": 32
+          "value": 31
         },
         {
           "date": "2026-03-15",
@@ -22001,15 +22378,15 @@
         },
         {
           "date": "2026-03-29",
-          "value": 48
-        },
-        {
-          "date": "2026-04-05",
           "value": 53
         },
         {
+          "date": "2026-04-05",
+          "value": 56
+        },
+        {
           "date": "2026-04-12",
-          "value": 57
+          "value": 56
         },
         {
           "date": "2026-04-19",
@@ -22017,23 +22394,23 @@
         },
         {
           "date": "2026-04-26",
-          "value": 54
+          "value": 55
         },
         {
           "date": "2026-05-03",
-          "value": 62
+          "value": 63
         },
         {
           "date": "2026-05-10",
-          "value": 61
+          "value": 60
         },
         {
           "date": "2026-05-17",
-          "value": 43
+          "value": 42
         },
         {
           "date": "2026-05-24",
-          "value": 45
+          "value": 46
         },
         {
           "date": "2026-05-31",
@@ -22053,13 +22430,17 @@
         },
         {
           "date": "2026-06-28",
-          "value": 32
+          "value": 30
+        },
+        {
+          "date": "2026-07-05",
+          "value": 30
         }
       ],
       "summary": {
-        "latest": 32,
-        "avg": 36.9,
-        "change_pct": -26.7
+        "latest": 30,
+        "avg": 36.8,
+        "change_pct": -23.7
       },
       "rising_queries": [
         {
@@ -22067,20 +22448,20 @@
           "value": 1000
         },
         {
+          "query": "coach sunglasses",
+          "value": 650
+        },
+        {
           "query": "what is a life coach",
           "value": 650
         },
         {
-          "query": "coach sunglasses",
-          "value": 600
+          "query": "coach erin bag",
+          "value": 450
         },
         {
           "query": "coach erin shoulder bag",
           "value": 400
-        },
-        {
-          "query": "coach backpack",
-          "value": 350
         }
       ]
     },
@@ -22166,7 +22547,7 @@
         },
         {
           "date": "2025-11-09",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-11-16",
@@ -22190,7 +22571,7 @@
         },
         {
           "date": "2025-12-21",
-          "value": 5
+          "value": 4
         },
         {
           "date": "2025-12-28",
@@ -22270,7 +22651,7 @@
         },
         {
           "date": "2026-05-10",
-          "value": 22
+          "value": 23
         },
         {
           "date": "2026-05-17",
@@ -22299,25 +22680,29 @@
         {
           "date": "2026-06-28",
           "value": 3
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
-        "latest": 3,
-        "avg": 6.4,
-        "change_pct": -69.1
+        "latest": 2,
+        "avg": 6.3,
+        "change_pct": -63.2
       },
       "rising_queries": [
         {
           "query": "michael kors marilyn medium signature logo convertible satchel",
-          "value": 10350
+          "value": 9850
         },
         {
           "query": "michael kors suit",
-          "value": 2300
+          "value": 2250
         },
         {
           "query": "michael kors backpack",
-          "value": 700
+          "value": 650
         },
         {
           "query": "michael kors sunglasses",
@@ -22395,7 +22780,7 @@
         },
         {
           "date": "2025-10-12",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-10-19",
@@ -22483,7 +22868,7 @@
         },
         {
           "date": "2026-03-15",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2026-03-22",
@@ -22499,7 +22884,7 @@
         },
         {
           "date": "2026-04-12",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2026-04-19",
@@ -22544,33 +22929,37 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
         "avg": 1.7,
-        "change_pct": -25.0
+        "change_pct": -37.5
       },
       "rising_queries": [
         {
-          "query": "kate spade iphone 17 pro case",
-          "value": 37800
-        },
-        {
           "query": "kate spade 454 small shoulder bag",
-          "value": 14650
-        },
-        {
-          "query": "kate spade cargo shoulder bag",
-          "value": 10600
+          "value": 14450
         },
         {
           "query": "kate spade 454",
-          "value": 6650
+          "value": 5700
         },
         {
-          "query": "kate spade scallop apple watch band",
-          "value": 2250
+          "query": "kate spade cargo shoulder bag",
+          "value": 2750
+        },
+        {
+          "query": "kate spade watch",
+          "value": 140
+        },
+        {
+          "query": "kate spade new york",
+          "value": 120
         }
       ]
     },
@@ -22612,7 +23001,7 @@
         },
         {
           "date": "2025-08-24",
-          "value": 1
+          "value": 2
         },
         {
           "date": "2025-08-31",
@@ -22789,17 +23178,21 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
         "avg": 2.0,
-        "change_pct": -30.8
+        "change_pct": -18.2
       },
       "rising_queries": [
         {
           "query": "tory burch charlie",
-          "value": 5250
+          "value": 5350
         },
         {
           "query": "tory burch romy",
@@ -22807,7 +23200,7 @@
         },
         {
           "query": "tory burch miller sandals",
-          "value": 180
+          "value": 170
         },
         {
           "query": "tory burch shoulder bag",
@@ -22815,7 +23208,7 @@
         },
         {
           "query": "tory burch watch",
-          "value": 90
+          "value": 110
         }
       ]
     },
@@ -22881,7 +23274,7 @@
         },
         {
           "date": "2025-10-05",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2025-10-12",
@@ -22917,7 +23310,7 @@
         },
         {
           "date": "2025-12-07",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2025-12-14",
@@ -23034,20 +23427,24 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 2
         }
       ],
       "summary": {
         "latest": 2,
-        "avg": 2.7,
-        "change_pct": -25.0
+        "avg": 2.6,
+        "change_pct": -33.3
       },
       "rising_queries": [
         {
           "query": "longchamp mocha",
-          "value": 1150
+          "value": 1000
         },
         {
-          "query": "longchamp le pliage large tote bag",
+          "query": "longchamp le pliage energy xs",
           "value": 450
         },
         {
@@ -23060,7 +23457,7 @@
         },
         {
           "query": "longchamp le pliage medium",
-          "value": 200
+          "value": 180
         }
       ]
     },
@@ -23166,7 +23563,7 @@
         },
         {
           "date": "2025-12-14",
-          "value": 4
+          "value": 3
         },
         {
           "date": "2025-12-21",
@@ -23178,7 +23575,7 @@
         },
         {
           "date": "2026-01-04",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-01-11",
@@ -23222,7 +23619,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 2
+          "value": 3
         },
         {
           "date": "2026-03-29",
@@ -23279,33 +23676,37 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
+        "latest": 1,
         "avg": 2.7,
-        "change_pct": -33.3
+        "change_pct": -36.4
       },
       "rising_queries": [
         {
           "query": "skims bush underwear",
-          "value": 76100
+          "value": 76000
         },
         {
           "query": "skims bush thong",
-          "value": 30950
-        },
-        {
-          "query": "skims faux hair panty",
-          "value": 24100
+          "value": 23250
         },
         {
           "query": "skims bush",
-          "value": 22950
+          "value": 21500
         },
         {
           "query": "skims merkin",
-          "value": 13450
+          "value": 13400
+        },
+        {
+          "query": "skims faux hair panty",
+          "value": 12600
         }
       ]
     },
@@ -23467,7 +23868,7 @@
         },
         {
           "date": "2026-03-22",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2026-03-29",
@@ -23503,7 +23904,7 @@
         },
         {
           "date": "2026-05-24",
-          "value": 3
+          "value": 2
         },
         {
           "date": "2026-05-31",
@@ -23524,21 +23925,29 @@
         {
           "date": "2026-06-28",
           "value": 2
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
-        "latest": 2,
-        "avg": 2.7,
-        "change_pct": -25.0
+        "latest": 1,
+        "avg": 2.6,
+        "change_pct": -36.4
       },
       "rising_queries": [
         {
           "query": "aritzia black friday sale 2025",
-          "value": 3900
+          "value": 13450
         },
         {
           "query": "aritzia lodge pants",
           "value": 450
+        },
+        {
+          "query": "aritzia blazer",
+          "value": 250
         },
         {
           "query": "aritzia lodge pant",
@@ -23546,10 +23955,6 @@
         },
         {
           "query": "aritzia warehouse sale 2025",
-          "value": 200
-        },
-        {
-          "query": "aritzia blazer",
           "value": 200
         }
       ]
@@ -23769,33 +24174,37 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 1
         }
       ],
       "summary": {
         "latest": 1,
-        "avg": 1.5,
-        "change_pct": -37.5
+        "avg": 1.4,
+        "change_pct": -50.0
       },
       "rising_queries": [
         {
           "query": "noble lady reformation guide",
-          "value": 151750
-        },
-        {
-          "query": "noble lady reformation guide novel",
-          "value": 12000
+          "value": 151200
         },
         {
           "query": "reformation jillian silk dress",
-          "value": 8550
+          "value": 14850
         },
         {
-          "query": "reformation avery top",
-          "value": 7100
+          "query": "noble lady reformation guide novel",
+          "value": 12050
         },
         {
           "query": "reformation avery knit top",
-          "value": 5050
+          "value": 5200
+        },
+        {
+          "query": "nail reformation press ons",
+          "value": 750
         }
       ]
     },
@@ -23973,7 +24382,7 @@
         },
         {
           "date": "2026-04-19",
-          "value": 0
+          "value": 1
         },
         {
           "date": "2026-04-26",
@@ -24014,6 +24423,10 @@
         {
           "date": "2026-06-28",
           "value": 0
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
@@ -24024,15 +24437,11 @@
       "rising_queries": [
         {
           "query": "everlane sold to shein",
-          "value": 19100
+          "value": 20050
         },
         {
           "query": "everlane boxy crew",
-          "value": 850
-        },
-        {
-          "query": "everlane boots",
-          "value": 50
+          "value": 1050
         },
         {
           "query": "everlane shorts",
@@ -24255,14 +24664,26 @@
         {
           "date": "2026-06-28",
           "value": 1
+        },
+        {
+          "date": "2026-07-05",
+          "value": 0
         }
       ],
       "summary": {
-        "latest": 1,
-        "avg": 1.1,
-        "change_pct": -20.0
+        "latest": 0,
+        "avg": 1.0,
+        "change_pct": -25.0
       },
       "rising_queries": [
+        {
+          "query": "madewell sunglasses",
+          "value": 600
+        },
+        {
+          "query": "madewell sandals",
+          "value": 250
+        },
         {
           "query": "madewell earrings",
           "value": 250
@@ -24273,15 +24694,7 @@
         },
         {
           "query": "madewell perfect vintage jean",
-          "value": 130
-        },
-        {
-          "query": "madewell shorts",
-          "value": 130
-        },
-        {
-          "query": "madewell tote bag",
-          "value": 110
+          "value": 120
         }
       ]
     }
